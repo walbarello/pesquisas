@@ -1,2 +1,2 @@
 # pesquisas
-Pesquisas diversas relacionadas a T.I
+Pesquisas diversas relacionada a assuntos diversos
