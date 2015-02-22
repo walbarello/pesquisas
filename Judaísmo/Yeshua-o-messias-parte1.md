@@ -22,12 +22,19 @@ Há diversas interpretações  acerca do pecado de Onã, a mais popular dela tal
 
 Na época dos patriarcas, o filho mais velho podia abdicar desse direito. Esaú, por exemplo, vendeu seu direito de primogênito para o seu irmão mais novo. (Gênesis 25:30-34) Jacó transferiu o direito de primogênito do seu filho mais velho, Rubem, para José. Rubem perdeu seu privilégio por causa de sua conduta imoral. (1 Crônicas 5:1) No entanto, sob a Lei mosaica, um homem com mais de uma esposa não podia transferir os benefícios da primogenitura do primeiro filho de uma delas para o primeiro filho de outra só porque a amava mais. O pai tinha de respeitar o direito que naturalmente pertencia ao primeiro filho dele. — Deuteronômio 21:15-17.
 
-> Em outras palavras, não há possibilidade de tentar justificar que o filho de alguém seja da descendência de um profeta, ungido, de alguém da genealogia da família prometida se o ponto de partida for de uma mulher. A descendência sempre foi repassada entre primogênitos de cada família. Observe em 1 Crônicas 1-10. Note também que por mais que na genealogia aja referência de ***filhas***, nunca há uma continuação a partir delas. Sempre é do ***filho*** primogênito ( ou que tenha conquistado a primogenitura ).
+> Em outras palavras, não há possibilidade de tentar justificar que o filho de alguém seja da descendência de um profeta, ungido, de alguém da genealogia da família prometida se o ponto de partida for de uma mulher. A descendência sempre foi repassada entre primogênitos de cada família. Observe em 1 Crônicas 1-10. Note também que por mais que na genealogia aja referência de ***filhas***, nunca há uma continuação a partir delas. Sempre é do ***filho*** primogênito ( ou que tenha conquistado a primogenitura ).O costume judaico de primogenitura era sempre aplicado o gênero masculino e não feminino.
+
+
+Gênesis 4.1. E CONHECEU Adão a Eva, sua mulher, e ela concebeu e deu à luz a Caim, e disse: "Alcancei do SENHOR um homem".
+
+> Note a alegria de Eva por ter tido um homem e não uma mulher, era costume antigo fazer menção apenas de filhos homens por questão de primogenitura, pois a primogenitura nunca era atribuída a mulheres.
 
 Por exemplo, de Adão a Abraão. Por mais que a Bíblia revele quem foram as filhas e esposas, a continuidade sempre é passada de primogênito a primogênito. Como no exemplo a seguir:
 
 ***De Adão a Abraão***
 Adão, Sete, Enos, Quenã, Mahalel, Jarede, Enoque, Metusalém, Lameque, Noé, Sem, Cam e Jafete
+
+> Porque Sete e não Caim? Sete surgiu quando não havia mais promogênitos de Adão, ali ouve um novo começo. Sete nasceu após o assassinato de Abel por Caim, e Eva acreditava que ele lhe fora designado por Deus como substituto de Abel, porque Caim o havia matado.
 
 ---
 
@@ -44,9 +51,51 @@ Cuche, Mizraim, Pute e Canaã. Os filhos de Cuche: Seba, Havila, Sabta, Rama e S
 ***Os filhos de Sem foram:***
 Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter, Meseque. 18 Arfaxade gerou Sala, e este gerou Eber. 19 Eber teve dois filhos, Pelegue (que quer dizer divisão, porque foi enquanto viveu que os povos da terra se dividiram em diferentes grupos de línguas) e Joctã. 20/23 Os filhos de Joctã: Almoda, Selefe, Hazarmave, Jera, Hadorão, Uzal, Dicla, Obal, Abimael, Seba, Ofir, Havila, Jobabe. 24/27 Um dos filhos de Sem foi Arfaxade, cujos descendentes foram sucessivamente: Sala, Eber, Pelegue,Reu, Serugue, Naor, Tera, ***```Abrão (cujo nome foi mudado para Abraão)```***.
 
+---
 
+### O Problema
 
+Da genealogia de Abraão até David tudo ocorre nos conformes. No entanto, da genealogia de David até José (Yosef) contada a partir de Yeshua ou JC como preferir, ocorre um problema sério. Vejamos:
 
+*** Mateus 1:1-17 diz assim: ***
+Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.
+Abraão gerou a Isaque; e Isaque gerou a Jacó; e Jacó gerou a Judá e a seus irmãos;
+E Judá gerou, de Tamar, a Perez e a Zerá; e Perez gerou a Esrom; e Esrom gerou a Arão;
+E Arão gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom;
+E Salmom gerou, de Raabe, a Boaz; e Boaz gerou de Rute a Obede; e Obede gerou a Jessé;
+E Jessé gerou ao rei Davi; e o rei Davi gerou a Salomão da que foi mulher de Urias.
+E Salomão gerou a Roboão; e Roboão gerou a Abias; e Abias gerou a Asa;
+E Asa gerou a Josafá; e Josafá gerou a Jorão; e Jorão gerou a Uzias;
+E Uzias gerou a Jotão; e Jotão gerou a Acaz; e Acaz gerou a Ezequias;
+E Ezequias gerou a Manassés; e Manassés gerou a Amom; e Amom gerou a Josias;
+E Josias gerou a Jeconias e a seus irmãos na deportação para babilônia.
+E, depois da deportação para a babilônia, Jeconias gerou a Salatiel; e Salatiel gerou a Zorobabel;
+E Zorobabel gerou a Abiúde; e Abiúde gerou a Eliaquim; e Eliaquim gerou a Azor;
+E Azor gerou a Sadoque; e Sadoque gerou a Aquim; e Aquim gerou a Eliúde;
+E Eliúde gerou a Eleazar; e Eleazar gerou a Matã; e Matã gerou a Jacó;
+E Jacó gerou a José, marido de Maria, da qual nasceu JESUS, que se chama o Cristo.
+De sorte que todas as gerações, desde Abraão até Davi, são catorze gerações; e desde Davi até a deportação para a babilônia, catorze gerações; e desde a deportação para a babilônia até Cristo, catorze gerações.
+
+*** Agora observe o mesmo relato em Lucas 3:23-38 ***
+E o mesmo Jesus começava a ser de quase trinta anos, sendo (como se cuidava) filho de José, e José de Heli,
+E Heli de Matã, e Matã de Levi, e Levi de Melqui, e Melqui de Janai, e Janai de José,
+E José de Matatias, e Matatias de Amós, e Amós de Naum, e Naum de Esli, e Esli de Nagaí,
+E Nagaí de Máate, e Máate de Matatias, e Matatias de Semei, e Semei de José, e José de Jodá,
+E Jodá de Joanã, e Joanã de Resá, e Resá de Zorobabel, e Zorobabel de Salatiel, e Salatiel de Neri,
+E Neri de Melqui, e Melqui de Adi, e Adi de Cosã, e Cosã de Elmadã, e Elmadã de Er,
+E Er de Josué, e Josué de Eliézer, e Eliézer de Jorim, e Jorim de Matã, e Matã de Levi,
+E Levi de Simeão, e Simeão de Judá, e Judá de José, e José de Jonã, e Jonã de Eliaquim,
+E Eliaquim de Meleá, e Meleá de Mená, e Mená de Matatá, e Matatá de Natã, e Natã de Davi,
+E Davi de Jessé, e Jessé de Obede, e Obede de Boaz, e Boaz de Salá, e Salá de Naassom,
+E Naassom de Aminadabe, e Aminadabe de Arão, e Arão de Esrom, e Esrom Perez, e Perez de Judá,
+E Judá de Jacó, e Jacó de Isaque, e Isaque de Abraão, e Abraão de Terá, e Terá de Nacor,
+E Nacor de Seruque, e Seruque de Ragaú, e Ragaú de Fáleque, e Fáleque de Eber, e Eber de Salá,
+E Salá de Cainã, e Cainã de Arfaxade, e Arfaxade de Sem, e Sem de Noé, e Noé de Lameque,
+E Lameque de Matusalém, e Matusalém de Enoque, e Enoque de Jarete, e Jarete de Maleleel, e Maleleel de Cainã,
+E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
+
+### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus.
+### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é Pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá e tampouco do Tanach. Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
 
 
