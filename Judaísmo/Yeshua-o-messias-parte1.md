@@ -18,7 +18,7 @@ Há diversas interpretações  acerca do pecado de Onã, a mais popular dela tal
 
 > É importante observar que a descendência prometida vindo a partir de Abraão e até antes, sempre foi passada de homem para homem. Note que na genealogia começa por Adão, depois Sete e a partir de Sete, gerou filhos e filhas. Sete gerou Enos, Enos gerou Quenã, .....e assim foi até chegar em Noé. O mesmo pode ser observado de Noé em diante. Sempre de homem para homem.
 
-Isto se deve por causa do direito de primogenitura. Isto é, desde os dias dos patriarcas, os servos de Deus davam direitos especiais ao filho primogênito. Quando o pai morria, o filho mais velho assumia a responsabilidade de cabeça da família. Ele passava a cuidar dela e a exercer autoridade sobre os membros da sua casa que continuavam a morar ali. O primogênito também representava a família perante Deus. Ao passo que todos os filhos recebiam uma herança, o primogênito recebia a herança principal. Em comparação com a quantidade de propriedades que os outros filhos recebiam, o primogênito recebia em dobro.
+***Isto se deve por causa do direito de primogenitura.*** Isto é, desde os dias dos patriarcas, os servos de Deus davam direitos especiais ao filho primogênito. Quando o pai morria, o filho mais velho assumia a responsabilidade de cabeça da família. Ele passava a cuidar dela e a exercer autoridade sobre os membros da sua casa que continuavam a morar ali. O primogênito também representava a família perante Deus. Ao passo que todos os filhos recebiam uma herança, o primogênito recebia a herança principal. Em comparação com a quantidade de propriedades que os outros filhos recebiam, o primogênito recebia em dobro.
 
 Na época dos patriarcas, o filho mais velho podia abdicar desse direito. Esaú, por exemplo, vendeu seu direito de primogênito para o seu irmão mais novo. (Gênesis 25:30-34) Jacó transferiu o direito de primogênito do seu filho mais velho, Rubem, para José. Rubem perdeu seu privilégio por causa de sua conduta imoral. (1 Crônicas 5:1) No entanto, sob a Lei mosaica, um homem com mais de uma esposa não podia transferir os benefícios da primogenitura do primeiro filho de uma delas para o primeiro filho de outra só porque a amava mais. O pai tinha de respeitar o direito que naturalmente pertencia ao primeiro filho dele. — Deuteronômio 21:15-17.
 
@@ -26,28 +26,17 @@ Na época dos patriarcas, o filho mais velho podia abdicar desse direito. Esaú,
 
 Por exemplo, de Adão a Abraão. Por mais que a Bíblia revele quem foram as filhas e esposas, a continuidade sempre é passada de primogênito a primogênito. Como no exemplo a seguir:
 
-* Adão
-* Sete
-* Enos
-* Cainã
-* Maalalel
-* Jarede
-* Enoque
-* Metusalém
-* Lameque
-* Noé
-* Sem
-* Arfaxade
-* Salá
-* Éber
-* Pelegue
-* Reú
-* Sarugue
-* Naor
-* Tera
-* Abraão
-
-
+***De Adão a Abraão***
+Adão, Sete, Enos, Quenã, Mahalel, Jarede, Enoque, Metusalém, Lameque, Noé, Sem, Cam e Jafete
+---
+***Os filhos de Jafete foram:***
+Gomer, Magog, Madai, Javã, Tubal, Meseque e Tiras. Os filhos de Gomer: Asquenaz, Rifa e Togarma. Os filhos de Javã: Elisá, Tarsis, Quintim e Dodanim
+---
+***Os filhos de Cam foram:***
+Cuche, Mizraim, Pute e Canaã. Os filhos de Cuche: Seba, Havila, Sabta, Rama e Sabteca. Os filhos de Rama: Seba e Dedã. 10 Um outro filho de Cuche foi Nimrode, que se tornou um grande herói. 11/12 As famílias que descenderam de Mizraim foram: os ludeus, anameus, leabeus, nafuteus, patruseus, caslueus — donde descenderam os filisteus — e os caftoreus. 13/16 Entre os descendentes de Canaã contam-se: Sidom (o seu filho primogénito) e Hete. Canaã foi também o antepassado dos jebuseus, amorreus, girgaseus, heveus, arqueus, sineus, arvadeus, zemareus e hamateus.i
+---
+***Os filhos de Sem foram:***
+Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter, Meseque. 18 Arfaxade gerou Sala, e este gerou Eber. 19 Eber teve dois filhos, Pelegue (que quer dizer divisão, porque foi enquanto viveu que os povos da terra se dividiram em diferentes grupos de línguas) e Joctã. 20/23 Os filhos de Joctã: Almoda, Selefe, Hazarmave, Jera, Hadorão, Uzal, Dicla, Obal, Abimael, Seba, Ofir, Havila, Jobabe. 24/27 Um dos filhos de Sem foi Arfaxade, cujos descendentes foram sucessivamente: Sala, Eber, Pelegue,Reu, Serugue, Naor, Tera, ***```Abrão (cujo nome foi mudado para Abraão)```***.
 
 
 
