@@ -1,6 +1,6 @@
 Há diversas questões que colocam em dúvida se de fato Jesus Cristo (ou Yeshua,Ieshua), tratando-se da mesma pessoa ou de dois personagens diferentes, como queira, são de fato o Mashiach (Messias). Lembrando que Messias que dizer o ***ungido***, o consagrado de Deus. E refere-se, principalmente, à profecia da vinda de um humano descendente do Rei David, que irá reconstruir a nação de Israel e restaurar o reino de David, trazendo desta forma a paz ao mundo.
 
-Para introduzir e chegar a uma linha de raciocínio coerente para este primeiro questionamento, farei algumas analogias resgatando a história de personagens existente na Torá e no Tanach ou (Antigo Testamento) para outros. Então vamos lá:
+Para introduzir e chegar a uma linha de raciocínio coerente para este primeiro questionamento, farei algumas analogias resgatando a história de personagens existente na Torá e no Tanach ou (Antigo Testamento) em paralelo ao Novo testamento ou (Brit Hadasha). Então vamos lá:
 
 ### Onã
 
