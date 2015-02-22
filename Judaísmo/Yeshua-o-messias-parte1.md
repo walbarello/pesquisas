@@ -97,7 +97,7 @@ E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 #### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus em número e nomes.
 #### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá (Lei de Moisés) e tampouco do Tanach (Bíblia Judaica/Hebraica). Jesus/Yeshua não é filho carnal de Yosef (José). E segundo a Torá, filhos bastardos ou adotivos não recebem o direito da primogenitura.
 
-Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
+> Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
 
 
