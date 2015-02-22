@@ -22,13 +22,32 @@ Isto se deve por causa do direito de primogenitura. Isto é, desde os dias dos p
 
 Na época dos patriarcas, o filho mais velho podia abdicar desse direito. Esaú, por exemplo, vendeu seu direito de primogênito para o seu irmão mais novo. (Gênesis 25:30-34) Jacó transferiu o direito de primogênito do seu filho mais velho, Rubem, para José. Rubem perdeu seu privilégio por causa de sua conduta imoral. (1 Crônicas 5:1) No entanto, sob a Lei mosaica, um homem com mais de uma esposa não podia transferir os benefícios da primogenitura do primeiro filho de uma delas para o primeiro filho de outra só porque a amava mais. O pai tinha de respeitar o direito que naturalmente pertencia ao primeiro filho dele. — Deuteronômio 21:15-17.
 
-> Em outras palavras, não há possibilidade de tentar justificar que o filho de alguém seja da descendência de um projeta, ungido, de alguém da genealogia da família prometida se o ponto de partida for de uma mulher. A descendência sempre foi repassada entre primogênitos de cada família. Observe em 1 Crônicas 1-10. Note também que por mais que na genealogia aja referência de ***filhas***, nunca há uma continuação a partir delas. Sempre é do ***filho*** primogênito ( ou que tenha conquistado a primogenitura ).
+> Em outras palavras, não há possibilidade de tentar justificar que o filho de alguém seja da descendência de um profeta, ungido, de alguém da genealogia da família prometida se o ponto de partida for de uma mulher. A descendência sempre foi repassada entre primogênitos de cada família. Observe em 1 Crônicas 1-10. Note também que por mais que na genealogia aja referência de ***filhas***, nunca há uma continuação a partir delas. Sempre é do ***filho*** primogênito ( ou que tenha conquistado a primogenitura ).
 
-![Genealogia adamica](http://4.bp.blogspot.com/-C2q4MY4VuSk/Uh9FN82SvrI/AAAAAAAABf4/Pt0imMxCxNU/s1600/genealogia+de+ad%C3%A3o+a+abra%C3%A3o.JPG)
+Por exemplo, de Adão a Abraão. Por mais que a Bíblia revele quem foram as filhas e esposas, a continuidade sempre é passada de primogênito a primogênito. Como no exemplo a seguir:
 
-Observe melhor a baixo:
+* Adão
+* Sete
+* Enos
+* Cainã
+* Maalalel
+* Jarede
+* Enoque
+* Metusalém
+* Lameque
+* Noé
+* Sem
+* Arfaxade
+* Salá
+* Éber
+* Pelegue
+* Reú
+* Sarugue
+* Naor
+* Tera
+* Abraão
 
-![Genealogia Abraão](http://www.pesquisabiblica.org/imagens/genealogia_4_israel_a_moises.jpg)
+
 
 
 
