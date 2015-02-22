@@ -28,13 +28,19 @@ Por exemplo, de Adão a Abraão. Por mais que a Bíblia revele quem foram as fil
 
 ***De Adão a Abraão***
 Adão, Sete, Enos, Quenã, Mahalel, Jarede, Enoque, Metusalém, Lameque, Noé, Sem, Cam e Jafete
+
 ---
+
 ***Os filhos de Jafete foram:***
 Gomer, Magog, Madai, Javã, Tubal, Meseque e Tiras. Os filhos de Gomer: Asquenaz, Rifa e Togarma. Os filhos de Javã: Elisá, Tarsis, Quintim e Dodanim
+
 ---
+
 ***Os filhos de Cam foram:***
 Cuche, Mizraim, Pute e Canaã. Os filhos de Cuche: Seba, Havila, Sabta, Rama e Sabteca. Os filhos de Rama: Seba e Dedã. 10 Um outro filho de Cuche foi Nimrode, que se tornou um grande herói. 11/12 As famílias que descenderam de Mizraim foram: os ludeus, anameus, leabeus, nafuteus, patruseus, caslueus — donde descenderam os filisteus — e os caftoreus. 13/16 Entre os descendentes de Canaã contam-se: Sidom (o seu filho primogénito) e Hete. Canaã foi também o antepassado dos jebuseus, amorreus, girgaseus, heveus, arqueus, sineus, arvadeus, zemareus e hamateus.i
+
 ---
+
 ***Os filhos de Sem foram:***
 Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter, Meseque. 18 Arfaxade gerou Sala, e este gerou Eber. 19 Eber teve dois filhos, Pelegue (que quer dizer divisão, porque foi enquanto viveu que os povos da terra se dividiram em diferentes grupos de línguas) e Joctã. 20/23 Os filhos de Joctã: Almoda, Selefe, Hazarmave, Jera, Hadorão, Uzal, Dicla, Obal, Abimael, Seba, Ofir, Havila, Jobabe. 24/27 Um dos filhos de Sem foi Arfaxade, cujos descendentes foram sucessivamente: Sala, Eber, Pelegue,Reu, Serugue, Naor, Tera, ***```Abrão (cujo nome foi mudado para Abraão)```***.
 
