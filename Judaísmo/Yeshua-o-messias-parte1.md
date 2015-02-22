@@ -57,7 +57,7 @@ Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter, Meseque. 18 Arfaxade gerou S
 
 Da genealogia de Abraão até David tudo ocorre nos conformes. No entanto, da genealogia de David até José (Yosef) contada a partir de Yeshua ou JC como preferir, ocorre um problema sério. Vejamos:
 
-*** Mateus 1:1-17 diz assim: ***
+### Mateus 1:1-17 diz assim:
 Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.
 Abraão gerou a Isaque; e Isaque gerou a Jacó; e Jacó gerou a Judá e a seus irmãos;
 E Judá gerou, de Tamar, a Perez e a Zerá; e Perez gerou a Esrom; e Esrom gerou a Arão;
@@ -76,7 +76,7 @@ E Eliúde gerou a Eleazar; e Eleazar gerou a Matã; e Matã gerou a Jacó;
 E Jacó gerou a José, marido de Maria, da qual nasceu JESUS, que se chama o Cristo.
 De sorte que todas as gerações, desde Abraão até Davi, são catorze gerações; e desde Davi até a deportação para a babilônia, catorze gerações; e desde a deportação para a babilônia até Cristo, catorze gerações.
 
-*** Agora observe o mesmo relato em Lucas 3:23-38 ***
+### Agora observe o mesmo relato em Lucas 3:23-38
 E o mesmo Jesus começava a ser de quase trinta anos, sendo (como se cuidava) filho de José, e José de Heli,
 E Heli de Matã, e Matã de Levi, e Levi de Melqui, e Melqui de Janai, e Janai de José,
 E José de Matatias, e Matatias de Amós, e Amós de Naum, e Naum de Esli, e Esli de Nagaí,
@@ -95,7 +95,9 @@ E Lameque de Matusalém, e Matusalém de Enoque, e Enoque de Jarete, e Jarete de
 E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 
 ### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus.
-### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é Pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá e tampouco do Tanach. Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
+### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é Pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá e tampouco do Tanach.
+
+Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
 
 
