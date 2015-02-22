@@ -94,7 +94,7 @@ E Salá de Cainã, e Cainã de Arfaxade, e Arfaxade de Sem, e Sem de Noé, e No�
 E Lameque de Matusalém, e Matusalém de Enoque, e Enoque de Jarete, e Jarete de Maleleel, e Maleleel de Cainã,
 E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 
-### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus.
+### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus em número e nomes.
 ### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é Pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá e tampouco do Tanach.
 
 Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
