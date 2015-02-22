@@ -24,11 +24,11 @@ Na época dos patriarcas, o filho mais velho podia abdicar desse direito. Esaú,
 
 > Em outras palavras, não há possibilidade de tentar justificar que o filho de alguém seja da descendência de um projeta, ungido, de alguém da genealogia da família prometida se o ponto de partida for de uma mulher. A descendência sempre foi repassada entre primogênitos de cada família. Observe em 1 Crônicas 1-10. Note também que por mais que na genealogia aja referência de ***filhas***, nunca há uma continuação a partir delas. Sempre é do ***filho*** primogênito ( ou que tenha conquistado a primogenitura ).
 
-[!Genealogia adamica](http://4.bp.blogspot.com/-C2q4MY4VuSk/Uh9FN82SvrI/AAAAAAAABf4/Pt0imMxCxNU/s1600/genealogia+de+ad%C3%A3o+a+abra%C3%A3o.JPG)
+![Genealogia adamica](http://4.bp.blogspot.com/-C2q4MY4VuSk/Uh9FN82SvrI/AAAAAAAABf4/Pt0imMxCxNU/s1600/genealogia+de+ad%C3%A3o+a+abra%C3%A3o.JPG)
 
 Observe melhor a baixo:
 
-[!Genealogia Abraão](http://www.pesquisabiblica.org/imagens/genealogia_4_israel_a_moises.jpg)
+![Genealogia Abraão](http://www.pesquisabiblica.org/imagens/genealogia_4_israel_a_moises.jpg)
 
 
 
