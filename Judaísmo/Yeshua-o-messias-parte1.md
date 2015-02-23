@@ -101,14 +101,27 @@ E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 
 > Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
+Uma explicação dada pelo Judaísmo Messingèlico (messiânico), está em Romanos 1:1 a 3 que diz:
 
+> Paulo, servo de haMashiach Yeshua, chamado para ser apóstolo, separado para o evangelho de YHWH, o qual antes havia prometido pelos seus profetas nas santas Escrituras, acerca do seu Filho, ***"que nasceu da descendência de David segundo a CARNE"***,...
 
+Segundo os messiânicos, se Yeshua é filho carnal de Yosef (José o carpinteiro), e decendente ***carnal*** de David da tribo de Yudah (Judá), então se conclui que Yeshua foi gerado milagrosamente através do poder do Espírito de YHWH e entende-se que o próprio Espírito do Eterno o inseriu. Cumprindo assim a profecia em Isaias 7:14 em Mateus 1:20.
 
+#### Problema 4 - Há um problema muito grave na interpretação dos messiânicos. Se eles resolvem interpretar desta maneira, logo, todo o relato dado a Maria (Miriam) de como o Espírito Santo iria convencer a José da gravidez, é falso. O relato confirma que José não sabia que ela engravidaria do Espírito de YHWH (Espírito Santo de Deus) Mateus 1:18-25. O relato ainda diz "Ao acordar, José fez o que o anjo do Senhor lhe tinha ordenado e recebeu Maria como sua esposa. Mas não teve relações com ela enquanto ela não deu à luz um filho. E ele lhe pôs o nome de Jesus." Neste caso, ou o novo testamento tem erros gritantes, ou simplesmente Jesus ou Yeshua, não é da descendência de David. Isto é, não cumpre nenhuma profecia do Tanach ( antigo testamento ) e está invalidado como Messias.
 
+> Observação: Em Mateus 1:20 diz assim: Mas, depois de ter pensado nisso, apareceu-lhe um anjo do Senhor em sonho e disse: "José, filho de Davi, não tema receber Maria como sua esposa, pois o que nela foi gerado procede do Espírito Santo"
 
+O versículo a cima apenas sustenta a interpretação correta de que a primogenitura foi passada apenas e homem para homem tanto que o anjo citou a José como filho de Davi ( e não Maria caso se quizesse argumentar que Maria fosse da descendência de David ).
 
+Outro ponto, ainda observando nas escrituras, dá para saber de qual descendência pertencia Maria (Miriam). Observe: 
 
+> No tempo de Herodes, rei da Judéia, havia um sacerdote chamado Zacarias, que pertencia ao grupo sacerdotal de Abias; ***Isabel, sua mulher, também era descendente de Arão*** - Lucas 1:5
 
+O que significa ser filha de Arão? Significa ser descendente de Arão, que era da tribo de Levi. Logo, Isabel era descendente de Levi e não de Judá. Maria era prima de Isabel: 
+
+> Perguntou Maria ao anjo: Como acontecerá isso, se sou virgem? O anjo respondeu: O Espírito Santo virá sobre você, e o poder do Altíssimo a cobrirá com a sua sombra. Assim, aquele que há de nascer será chamado santo, Filho de Deus. ***Também Isabel, sua parenta***, terá um filho na velhice; aquela que diziam ser estéril já está em seu sexto mês de gestação - Lucas 1:34-36
+
+Ou seja, sendo Maria da tribo de Levi, logo, não há possibilidade de Maria ser da descendência de David que era da tribo de Judá.
 
 
 
