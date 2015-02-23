@@ -123,8 +123,23 @@ O que significa ser filha de Arão? Significa ser descendente de Arão, que era 
 
 Ou seja, sendo Maria da tribo de Levi, logo, não há possibilidade de Maria ser da descendência de David que era da tribo de Judá.
 
+### Mas, porque Jesus/Yeshua obrigatoriamente tem que ser da descendência de David?
 
+Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Judaica "antigo testamento"). E ao mesmo tempo apoiado pelo novo testamento. Vejamos:
 
+> Da descendência deste, conforme a promessa, levantou Deus a Jesus para Salvador de Israel - ***Atos 13:23***
+
+> Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão. ***Mateus 1:1***
+
+> E, partindo Jesus dali, seguiram-no dois cegos, clamando, e dizendo: Tem compaixão de nós, filho de Davi. ***Mateus 9:27***
+
+> E a multidão que ia adiante, e a que seguia, clamava, dizendo: Hosana ao Filho de Davi; bendito o que vem em nome do Senhor. Hosana nas alturas! - ***Mateus 21:9***
+
+> O Senhor jurou com verdade a Davi, e não se apartará dela: Do fruto do teu ventre porei sobre o teu trono. ***Salmos 132:11***
+
+E muitos outros. 
+
+#### Como então se explica que Jesus/Yeshua, é da descendência de David? 
 
 
 
