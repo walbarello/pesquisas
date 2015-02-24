@@ -183,11 +183,30 @@ E muitos outros.
 
 ---
 
-Conservsando com outro Judeu messingélico (messiânico), este respondera da seguinte maneira:
+#### Conservsando com outro Judeu messingélico (messiânico), este respondera da seguinte maneira:
 
 > Yeshua foi gerado pela Ruach Hakodesh (espírito santo) digo, a concepção de Miriam se deu pelo Ruach certo? Nesse caso o que impediria o Ruach de colocar os outros 23 cromossomos de Yossef em Yeshua? Uma vez que se tratou de um nascimento milagroso, pois foi um sinal (OT).
 
 > Yossef pai de Yeshua por inseminação Espiritual. ***É assim que creio,*** para que se cumprisse o que estava escrito em relação ao Messias descender de David. A linhagen é verificada pela mãe ja que não teria como comprovar a paternidade, não somente de yeshua , mas todos os iechudim ,***ja ouvir falar q Miriam e yossef eran primo***.
+
+Visto que o Eterno criou o homem do pó da terra e a mulher da costela de Adão, de fato não seria problema algum o Eterno fazer uma inseminação espiritual em Maria com os genes de Yosef ( José ) o carpinteiro.
+
+O problema, na verdade, começa pelo fato de que o argumento está sendo dado do ponto de vista pessoal ( fé ou opinião pessoal ). Logo, não há crédito argumentativo porque não há base que afirme e sequer indícios que levem a esta questão. Fosse assim, poderíamos pegar tantas especulações do que poderia ocorrer e considerar todas verdades. Mas temos de observar se estas especulações de alguma maneira se harmoniza com a Torá. Esta deve ser a nossa bússola.
+
+Além disso, este seria o único caso desde a criação do mundo em que a primogenitura seria passada de Pai para filho sem uma ligação carnal ou sem ligação de sangue. Mas ainda sim, faço questão de mostrar na Lei ( Torá e no Tanach ) que esta afirmação, especulação ou opinião, está incorreta.
+
+Veja bem, segundo a Torá ( as cinco leis de Moisés ), diz o seguinte:
+
+#### Brit Milá
+
+Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na aliança abraâmica estabelecida entre os descendentes de Abraão em Isaque e o Criador, é a ***Brit Milá (Aliança do Prepúcio)***, também chamada de circuncisão. Vejamos as palavras de D-us a Abraão:
+
+> “(…) Guardarás a minha aliança, tu e a tua descendência no decurso das suas gerações. Esta é a minha aliança, que guardareis entre mim e vós e a tua descendência: todo macho entre vós será circuncidado. Circuncidareis a carne do vosso prepúcio; será isso por SINAL de aliança entre mim e vós. Ao oitavo dia será circuncidado (…)” (Gênesis 17:9-12).
+
+Segundo o livro de Atos, Yeshua fez Brit Milá. No entanto, será que fez exatamente como manda a Torá? vejamos:
+
+
+
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
