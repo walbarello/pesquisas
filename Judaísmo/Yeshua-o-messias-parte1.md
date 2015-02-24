@@ -138,7 +138,19 @@ E ele continuou:
 
 > Se você perceber, as duas linhagens são diferentes mas encontram seu tronco comum em Davi. Na linhagem descrita por Mateus fala dos filhos de Salomão na linhagem de Lucas dos filhos de Natã... ambos filhos de Davi... mas porque a diferença... existem algumas explicações mas a mais aceita é que Mateus se refira a linhagem vinda de José e Lucas se refira a linhagem vinda de Maria... o fato de no verso 16 do capítulo 1 de Mateus falar que José seria filho de Jaco e em Lucas 3:23 falar que ele seria filho de Eli apoiaria a idéia de se tratar do pai de Maria... até pq a idéia de "genro" não era bem a que temos hj... o genro ou a nora seriam considerados como filhos mesmo... Além disso a linhagem bíblica sempre ponderava pro lado do Pai... "Deus de Abraão de Isaque e de Jaco" e não "Deus de Sara, Rebeca, Raquel e Lia"... espero ter "desconfundido"... mesmo assim em ambos os casos a descendência de Jesus viria de David
 
-Como já mencionado, é impossível o relato de ***Lucas 3:23-28*** estar descrevendo a genealogia de Maria por dois motivos: Maria é descendente de Isabel que é descendente de Arão da tribo de Leví ( ou seja, para ser descendente de David, obrigatoriamente tem que ser da descendencia de Judá). E o outro motivo que também já foi explicado, é que a primogenitura não é passada de mulher para homem em nenhum lugar da Bíblia. Além disso, basta prestar atenção no relato de Lucas 3:23-28 que a genealogia vai de Jesus, passa por José, e vai a Adão e depois Deus. Isto é, não passa por Maria.
+Como já mencionado, é impossível o relato de ***Lucas 3:23-28*** estar descrevendo a genealogia de Maria por dois motivos: Maria é descendente de Isabel que é descendente de Arão da tribo de Leví ( ou seja, para ser descendente de David, obrigatoriamente tem que ser da descendencia de Judá). E o outro motivo que também já foi explicado, é que a primogenitura não é passada de mulher para homem em nenhum lugar da Bíblia. Além disso, basta prestar atenção no relato de Lucas 3:23-28 que a genealogia vai de Jesus, passa por José, e vai a Adão e depois Deus. Isto é, não passa por Maria. 
+
+Além disto, observe este versículo:
+
+> Existiu, no tempo de Herodes, rei da Judéia, um sacerdote chamado Zacarias, da ordem de Abias, e cuja mulher era das filhas de Arão; e o seu nome era Isabel. ***Lucas 1:5***
+
+E mais tarde:
+
+> E disse Maria ao anjo: Como se fará isto, visto que não conheço homem algum? E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; por isso também o Santo, que de ti há de nascer, será chamado Filho de Deus. ***E eis que também Isabel, tua prima,*** concebeu um filho em sua velhice; e é este o sexto mês para aquela que era chamada estéril;
+
+### Ficou claro? Maria é prima de Isabel e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo que é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste. E como já citei, filho adotivo ou bastardo, não recebem a primogenitura.
+
+Lucas 1:34-36
 
 ---
 
