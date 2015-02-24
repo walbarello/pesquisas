@@ -148,9 +148,9 @@ E mais tarde:
 
 > E disse Maria ao anjo: Como se fará isto, visto que não conheço homem algum? E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; por isso também o Santo, que de ti há de nascer, será chamado Filho de Deus. ***E eis que também Isabel, tua prima,*** concebeu um filho em sua velhice; e é este o sexto mês para aquela que era chamada estéril;
 
-### Ficou claro? Maria é prima de Isabel e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo que é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste. E como já citei, filho adotivo ou bastardo, não recebem a primogenitura.
-
 Lucas 1:34-36
+
+### Ficou claro? Maria é prima de Isabel, e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo, é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste. E como já citei, filho adotivo ou bastardo, não recebem a primogenitura (basta acompanhar a história de Ismael filho de Agar com Abraão no deserto).
 
 ---
 
@@ -178,11 +178,4 @@ Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Jud
 E muitos outros. 
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? 
-
-
-
-
-
-
-
 
