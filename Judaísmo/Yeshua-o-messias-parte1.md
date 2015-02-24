@@ -164,6 +164,7 @@ As testemunhas de Jeová por sua vez, tentam explicar esta questão da seguinte 
 
 #### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. E mesmo que surja a hipótese de que por Yeshua/Jesus ser filho de Deus dando margem a suposição de que a descendência de David seria justificada através do Eterno, geraria também outro problema. Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
 
+---
 
 ### Mas, porque Jesus/Yeshua obrigatoriamente tem que ser da descendência de David?
 
@@ -199,6 +200,8 @@ Visto que o Eterno criou o homem do pó da terra e a mulher da costela de Adão,
 
 Para responder melhor a questão colocada a cima, vamos aprofundar no pacto estabelecido entre Deus e Abraão logo a baixo:
 
+---
+
 #### Brit Milá e Pacto Abrâamico
 
 Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na aliança abraâmica estabelecida entre os descendentes de Abraão em Isaque e o Criador, é a ***Brit Milá (Aliança do Prepúcio)***, também chamada de circuncisão. Como mostra o versículo a seguir:
@@ -214,6 +217,8 @@ O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-
 A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, é carnal. Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido. Negar isto, seria o mesmo que negar a lei "vinda do Eterno".
 
 Se a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo estabelecesse o pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão.
+
+---
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
