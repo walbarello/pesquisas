@@ -140,12 +140,13 @@ E ele continuou:
 
 Como já mencionado, é impossível o relato de ***Lucas 3:23-28*** estar descrevendo a genealogia de Maria por dois motivos: Maria é descendente de Isabel que é descendente de Arão da tribo de Leví ( ou seja, para ser descendente de David, obrigatoriamente tem que ser da descendencia de Judá). E o outro motivo que também já foi explicado, é que a primogenitura não é passada de mulher para homem em nenhum lugar da Bíblia. Além disso, basta prestar atenção no relato de Lucas 3:23-28 que a genealogia vai de Jesus, passa por José, e vai a Adão e depois Deus. Isto é, não passa por Maria.
 
+---
 
+As testemunhas de Jeová por sua vez, tentam explicar esta questão da seguinte maneira:
 
+> Visto que Jesus não era filho do próprio José, mas era o Filho de Deus, a genealogia de Jesus, por Lucas, provaria que ele era, por nascimento humano, filho de Davi, por meio da sua mãe, Maria. 
 
-
-
-
+#### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. No entanto, é importante notar que as testemunhas de Jeová, chegam a supor algo diferente nas respostas até então dadas. Por exemplo, citam  "mas era o filho de Deus, a genealogia de Jesus", o que dá margem a suposição de que a descendência de David seria justificada através do Eterno. No entanto, isto também não é possível. Pois, no caso do eterno, não seria descendência e sim ascendência e nada existia antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
 
 
 ### Mas, porque Jesus/Yeshua obrigatoriamente tem que ser da descendência de David?
