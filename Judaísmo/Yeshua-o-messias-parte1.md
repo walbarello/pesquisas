@@ -123,6 +123,31 @@ O que significa ser filha de Arão? Significa ser descendente de Arão, que era 
 
 Ou seja, sendo Maria da tribo de Levi, logo, não há possibilidade de Maria ser da descendência de David que era da tribo de Judá.
 
+---
+
+Outro rapaz que se identifica como Judeu Messiânico, respondeu da seguinte maneira:
+
+> Em Mateus 1:1 relata-se o seguinte: "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão". Os versos seguintes são para descrever a genealogia de Jesus em 3 partes conforme citado no verso 17: "De sorte que todas as gerações, desde Abraão até Davi, são catorze gerações; e desde Davi até a deportação para Babilônia, catorze gerações; e desde a deportação para Babilônia até o Cristo, catorze gerações.". 
+
+> Por que o número 14 é importante???Porque representa o número do nome de Davi em hebraico (דוד - David) sendo a letra ד (dalet = 4) e ו (vav = 6), vogais não são contadas em hebraico, somente as consoantes. Assim 4 + 6 + 4  = 14. Ou seja, a ênfase no livro de Mateus é mostrar Jesus como um Judeu, por isso faz essa relação como ele sendo um descendente de David. Qualquer Judeu que lê-se esse versos faria rapidamente essa associação
+Agora porque é importante/necessário que ele seja um descendente de Davi???
+
+Bem, nesta resposta encontramos uma incoerência ***ASSUSTADORA***. É como alguém perguntar: Porque Hashem é Deus e outro alguém responder: Porque 2+2 é 4 e 3+3 é 6. Que sentido isto faz? entendo que os números tem sua devida importancia ao que se refere a doutrina Judaica. No entanto, é coerente usar os números quando estes ***fazem algum sentido lógico***. Nenhum Judeu trata o Tanach e tampouco a Torá como algo abstrado, sem explicação lógica. Do contrário, é opinião pessoal, fé pessoal.
+
+E ele continuou:
+
+> Se vc perceber as duas linhagens são diferentes mas encontram seu tronco comum em Davi... na linhagem descrita por Mateus fala dos filhos de Salomão... na linhagem de Lucas dos filhos de Natã... ambos filhos de Davi... mas porque a diferença... existem algumas explicações mas a mais aceita é que Mateus se refira a linhagem vinda de José e Lucas se refira a linhagem vinda de Maria... o fato de no verso 16 do capítulo 1 de Mateus falar que José seria filho de Jaco e em Lucas 3:23 falar que ele seria filho de Eli apoiaria a idéia de se tratar do pai de Maria... até pq a idéia de "genro" não era bem a que temos hj... o genro ou a nora seriam considerados como filhos mesmo... Além disso a linhagem bíblica sempre ponderava pro lado do Pai... "Deus de Abraão de Isaque e de Jaco" e não "Deus de Sara, Rebeca, Raquel e Lia"... espero ter "desconfundido"... mesmo assim em ambos os casos a descendência de Jesus viria de David
+
+Como já mencionado, é impossível o relato de ***Lucas 3:23-28*** estar descrevendo a genealogia de Maria por dois motivos: Maria é descendente de Isabel que é descendente de Arão da tribo de Leví ( ou seja, para ser descendente de David, obrigatoriamente tem que ser da descendencia de Judá). E o outro motivo que também já foi explicado, é que a primogenitura não é passada de mulher para homem em nenhum lugar da Bíblia. Além disso, basta prestar atenção no relato de Lucas 3:23-28 que a genealogia vai de Jesus, passa por José, e vai a Adão e depois Deus. Isto é, não passa por Maria.
+
+
+
+
+
+
+
+
+
 ### Mas, porque Jesus/Yeshua obrigatoriamente tem que ser da descendência de David?
 
 Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Judaica "antigo testamento"). E ao mesmo tempo apoiado pelo novo testamento. Vejamos:
