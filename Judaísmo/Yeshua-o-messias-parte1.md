@@ -189,7 +189,7 @@ E muitos outros.
 
 ---
 
-#### Consersando com outro Judeu messingélico (messiânico), este respondera da seguinte maneira:
+#### Uma conhecida ao ler meu artigo, o sugeriu para outro amigo Messiânico e este respondera da seguinte maneira:
 
 > Yeshua foi gerado pela Ruach Hakodesh (espírito santo) digo, a concepção de Miriam se deu pelo Ruach certo? Nesse caso o que impediria o Ruach de colocar os outros 23 cromossomos de Yossef em Yeshua? Uma vez que se tratou de um nascimento milagroso, pois foi um sinal (OT).
 
