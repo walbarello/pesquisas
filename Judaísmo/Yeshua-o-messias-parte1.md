@@ -210,7 +210,7 @@ Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na
 
 > Disse mais Deus a Abraão: Tu, porém, guardarás a minha aliança, tu, e a tua descendência depois de ti, nas suas gerações. Esta é a minha aliança, que guardareis entre mim e vós, e a tua descendência depois de ti: Que todo o homem entre vós será circuncidado. E circuncidareis a carne do vosso prepúcio; e isto será por sinal da aliança entre mim e vós. O filho de oito dias, pois, será circuncidado, todo o homem nas vossas gerações; o nascido na casa, e o comprado por dinheiro a qualquer estrangeiro, que não for da tua descendência. ***Gênesis 17:9-12***.
 
-> Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; ####e estará a minha aliança na vossa carne#### por aliança perpétua.- ***Gênesis 17:13***
+> Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; ***e estará a minha aliança na vossa carne*** por aliança perpétua.- ***Gênesis 17:13***
 
 O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-se que Deus está se referindo a Abraão e não simplesmente ao ato de Brit Milá puro e simplesmente. A própria bíblia explica isto. Veja:
 
