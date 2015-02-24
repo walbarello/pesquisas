@@ -205,7 +205,9 @@ Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na
 
 Segundo o livro de Atos, Yeshua fez Brit Milá. No entanto, será que fez exatamente como manda a Torá? vejamos:
 
+> Completados os oito dias para ser circuncidado, deram ao menino o nome de Yeshua (Jesus), como lhe chamara o anjo antes de ser nascido. (…) segundo a Lei de Moisés, levaram-no a Jerusalém para ser apresentado ao Senhor (…) para oferecer sacrifício, segundo o que está escrito na Lei: Um par de rolas ou dois pombinhos.” (Lucas 2:21-24).
 
+#### Pacto Abraâmico
 
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
