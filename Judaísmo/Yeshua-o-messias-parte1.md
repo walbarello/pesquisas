@@ -140,13 +140,17 @@ E ele continuou:
 
 Como já mencionado, é impossível o relato de ***Lucas 3:23-28*** estar descrevendo a genealogia de Maria por dois motivos: Maria é descendente de Isabel que é descendente de Arão da tribo de Leví ( ou seja, para ser descendente de David, obrigatoriamente tem que ser da descendencia de Judá). E o outro motivo que também já foi explicado, é que a primogenitura não é passada de mulher para homem em nenhum lugar da Bíblia. Além disso, basta prestar atenção no relato de Lucas 3:23-28 que a genealogia vai de Jesus, passa por José, e vai a Adão e depois Deus. Isto é, não passa por Maria. 
 
-Para reforçar,observe este versículo:
+A genealogia de Maria não é revelada na Bíblia. No entanto, há versículos que mostram de qual tribo sua descendência pertencia. Para reforçar,observe estes versículos a baixo:
 
 > Existiu, no tempo de Herodes, rei da Judéia, um sacerdote chamado Zacarias, da ordem de Abias, e cuja mulher era das filhas de Arão; e o seu nome era Isabel. ***Lucas 1:5***
 
 E mais este:
 
 > E disse Maria ao anjo: Como se fará isto, visto que não conheço homem algum? E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; por isso também o Santo, que de ti há de nascer, será chamado Filho de Deus. ***E eis que também Isabel, tua prima,*** concebeu um filho em sua velhice; e é este o sexto mês para aquela que era chamada estéril; - ***Lucas 1:34-36***
+
+Moisés e seu irmão o sacerdote Aarão, foram ambos levitas e descendentes notáveis da dinastia levita, de acordo com a Bíblia, incluem Miriam irmã de Moisés, o profeta Samuel, o profeta Ezequiel, o governador Esdras, o profeta Malaquias, João Batista, Marcos, Mateus, Maria, e Barbabé. Veja:
+
+> Os filhos de Levi foram: Gérson, Coate e Merari,E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel. E os filhos de Anrão: ***Arão***, Moisés, e Miriã; e os filhos de Arão: Nadabe, Abiú, Eleazar, e Itamar. ***1 Crônicas 6:1-3***.
 
 ### Ficou claro? Maria é prima de Isabel, e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo, é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste. E como já citei, filho adotivo ou bastardo, não recebem a primogenitura (basta acompanhar a história de Ismael filho de Agar com Abraão no deserto).
 
