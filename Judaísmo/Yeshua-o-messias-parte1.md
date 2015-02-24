@@ -181,5 +181,13 @@ Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Jud
 
 E muitos outros. 
 
+---
+
+Conservsando com outro Judeu messingélico (messiânico), este respondera da seguinte maneira:
+
+> Yeshua foi gerado pela Ruach Hakodesh (espírito santo) digo, a concepção de Miriam se deu pelo Ruach certo? Nesse caso o que impediria o Ruach de colocar os outros 23 cromossomos de Yossef em Yeshua? Uma vez que se tratou de um nascimento milagroso, pois foi um sinal (OT).
+
+> Yossef pai de Yeshua por inseminação Espiritual. ***É assim que creio,*** para que se cumprisse o que estava escrito em relação ao Messias descender de David. A linhagen é verificada pela mãe ja que não teria como comprovar a paternidade, não somente de yeshua , mas todos os iechudim ,***ja ouvir falar q Miriam e yossef eran primo***.
+
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
