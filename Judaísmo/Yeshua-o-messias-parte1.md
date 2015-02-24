@@ -162,7 +162,7 @@ As testemunhas de Jeová por sua vez, tentam explicar esta questão da seguinte 
 
 #### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. No entanto, é importante notar que as testemunhas de Jeová, chegam a supor algo diferente nas respostas até então dadas. Por exemplo, citam  "mas era o filho de Deus, a genealogia de Jesus", o que dá margem a suposição de que a descendência de David seria justificada através do Eterno. 
 
-#### No entanto, isto também não é possível. Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
+#### No entanto, isto também não é possível. Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
 
 
 ### Mas, porque Jesus/Yeshua obrigatoriamente tem que ser da descendência de David?
