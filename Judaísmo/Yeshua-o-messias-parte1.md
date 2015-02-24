@@ -181,5 +181,5 @@ Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Jud
 
 E muitos outros. 
 
-#### Como então se explica que Jesus/Yeshua, é da descendência de David? 
+#### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
