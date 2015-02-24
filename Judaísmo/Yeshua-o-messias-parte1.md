@@ -216,7 +216,7 @@ O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-
 
 > Disse Deus mais a Abraão: A Sarai tua mulher não chamarás mais pelo nome de Sarai, mas Sara será o seu nome. Porque eu a hei de abençoar, e te darei dela um filho; e a abençoarei, e será mãe das nações; reis de povos sairão dela - ***Gênesis 17:15-16***
 
-A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, é carnal. Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido. Negar isto, seria o mesmo que negar a lei "vinda do Eterno".
+A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, ***é carnal***. Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido e não existe registro algum deste acontecido em toda a Bíblia. Negar isto, seria o mesmo que negar a lei "vinda do próprio Eterno".
 
 Se a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo estabelecesse o pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão.
 
