@@ -97,9 +97,11 @@ E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 #### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus em número e nomes.
 #### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá (Lei de Moisés) e tampouco do Tanach (Bíblia Judaica/Hebraica).
 
-#### Jesus/Yeshua não é filho carnal de Yosef (José). E segundo a Torá, filhos bastardos ou adotivos não recebem o direito da primogenitura. Veja o caso de Ismael filho bastardo de Abraão com Agar sua escrava. Ismael não recebeu o direito a primogenitura que foi dada a Isaac filho de Abraão com Sara.
+#### Jesus/Yeshua não é filho carnal de Yosef (José). E segundo a Torá, filhos bastardos ou adotivos não recebem o direito da primogenitura. Veja o caso de Ismael filho bastardo de Abraão com Agar sua escrava. Ismael não recebeu o direito a primogenitura que foi dada a Isaac filho de Abraão com Sara. Observe o versículo a baixo:
 
-> Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
+> E disse Deus: Na verdade, Sara, tua mulher, te dará um filho, e chamarás o seu nome Isaque, e com ele estabelecerei a minha aliança, por aliança perpétua para a sua descendência depois dele. E quanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação. A minha aliança, porém, estabelecerei com Isaque, o qual Sara dará à luz neste tempo determinado, no ano seguinte.
+
+Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
 Uma explicação dada pelo Judaísmo Messingèlico (messiânico), está em Romanos 1:1 a 3 que diz:
 
@@ -160,14 +162,17 @@ As testemunhas de Jeová por sua vez, tentam explicar esta questão da seguinte 
 
 > Visto que Jesus não era filho do próprio José, mas era o Filho de Deus, a genealogia de Jesus, por Lucas, provaria que ele era, por nascimento humano, filho de Davi, por meio da sua mãe, Maria. 
 
-#### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. No entanto, é importante notar que as testemunhas de Jeová, chegam a supor algo diferente nas respostas até então dadas. Por exemplo, citam  "mas era o filho de Deus, a genealogia de Jesus", o que dá margem a suposição de que a descendência de David seria justificada através do Eterno. 
-
-#### No entanto, isto também não é possível. Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
+#### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. E mesmo que surja a hipótese de que por Yeshua/Jesus ser filho de Deus dando margem a suposição de que a descendência de David seria justificada através do Eterno, geraria também outro problema. Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
 
 
 ### Mas, porque Jesus/Yeshua obrigatoriamente tem que ser da descendência de David?
 
-Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Judaica "antigo testamento"). E ao mesmo tempo apoiado pelo novo testamento. Vejamos:
+Simplesmente porque esta é uma exigência das profecias do Tanach ( Bíblia Judaica "antigo testamento"). E ao mesmo tempo apoiado pelo novo testamento. Para entendermos melhor esta questão, temos que voltar ao Pacto Abraâmico registrado em Gênesis 17:1-7:
+
+> Sendo, pois, Abrão da idade de noventa e nove anos, apareceu o SENHOR a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso, anda em minha presença e sê perfeito. E porei a minha aliança entre mim e ti, e te multiplicarei grandissimamente. Então caiu Abrão sobre o seu rosto, e falou Deus com ele, dizendo:
+
+> Quanto a mim, eis a minha aliança contigo: serás o pai de muitas nações; E não se chamará mais o teu nome Abrão, mas Abraão será o teu nome; porque por pai de muitas nações te tenho posto; E te farei frutificar grandissimamente, e de ti farei nações, e reis sairão de ti; E estabelecerei a minha aliança entre mim e ti e a tua descendência depois de ti em suas gerações, por aliança perpétua, para te ser a ti por Deus, e à tua descendência depois de ti.
+
 
 > Da descendência deste, conforme a promessa, levantou Deus a Jesus para Salvador de Israel - ***Atos 13:23***
 
@@ -183,32 +188,32 @@ E muitos outros.
 
 ---
 
-#### Conservsando com outro Judeu messingélico (messiânico), este respondera da seguinte maneira:
+#### Consersando com outro Judeu messingélico (messiânico), este respondera da seguinte maneira:
 
 > Yeshua foi gerado pela Ruach Hakodesh (espírito santo) digo, a concepção de Miriam se deu pelo Ruach certo? Nesse caso o que impediria o Ruach de colocar os outros 23 cromossomos de Yossef em Yeshua? Uma vez que se tratou de um nascimento milagroso, pois foi um sinal (OT).
 
-> Yossef pai de Yeshua por inseminação Espiritual. ***É assim que creio,*** para que se cumprisse o que estava escrito em relação ao Messias descender de David. A linhagen é verificada pela mãe ja que não teria como comprovar a paternidade, não somente de yeshua , mas todos os iechudim ,***ja ouvir falar q Miriam e yossef eran primo***.
+> Yosef é pai de Yeshua por inseminação Espiritual. ***É assim que creio,*** para que se cumprisse o que estava escrito em relação ao Messias descender de David. A linhagen é verificada pela mãe ja que não teria como comprovar a paternidade, não somente de yeshua , mas todos os iechudim ,***já ouvir falar que Miriam e yosef eram primos***.
 
-Visto que o Eterno criou o homem do pó da terra e a mulher da costela de Adão, de fato não seria problema algum o Eterno fazer uma inseminação espiritual em Maria com os genes de Yosef ( José ) o carpinteiro.
+Visto que o Eterno criou o homem do pó da terra e a mulher da costela de Adão, de fato não seria problema algum o Eterno fazer uma inseminação espiritual em Maria com os genes de Yosef ( José ) o carpinteiro. O problema, na verdade, começa pelo fato de que o argumento está sendo dado do ponto de vista pessoal ( fé ou opinião pessoal ). Logo, não há crédito argumentativo porque não há base que afirme e sequer indícios que levem a esta questão. Fosse assim, poderíamos pegar tantas especulações do que poderia ocorrer e considerar todas verdades. Mas temos de observar se estas especulações de alguma maneira se harmoniza com a Torá. Afinal, esta sim deve ser a nossa bússola e por ela que devemos nos guiar.
 
-O problema, na verdade, começa pelo fato de que o argumento está sendo dado do ponto de vista pessoal ( fé ou opinião pessoal ). Logo, não há crédito argumentativo porque não há base que afirme e sequer indícios que levem a esta questão. Fosse assim, poderíamos pegar tantas especulações do que poderia ocorrer e considerar todas verdades. Mas temos de observar se estas especulações de alguma maneira se harmoniza com a Torá. Esta deve ser a nossa bússola.
 
-Além disso, este seria o único caso desde a criação do mundo em que a primogenitura seria passada de Pai para filho sem uma ligação carnal ou sem ligação de sangue. Mas ainda sim, faço questão de mostrar na Lei ( Torá e no Tanach ) que esta afirmação, especulação ou opinião, está incorreta.
+Para responder melhor a questão colocada a cima, vamos aprofundar no pacto estabelecido entre Deus e Abraão logo a baixo:
 
-Veja bem, segundo a Torá ( as cinco leis de Moisés ), diz o seguinte:
+#### Brit Milá e Pacto Abrâamico
 
-#### Brit Milá
+Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na aliança abraâmica estabelecida entre os descendentes de Abraão em Isaque e o Criador, é a ***Brit Milá (Aliança do Prepúcio)***, também chamada de circuncisão. Como mostra o versículo a seguir:
 
-Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na aliança abraâmica estabelecida entre os descendentes de Abraão em Isaque e o Criador, é a ***Brit Milá (Aliança do Prepúcio)***, também chamada de circuncisão. Vejamos as palavras de D-us a Abraão:
+> Disse mais Deus a Abraão: Tu, porém, guardarás a minha aliança, tu, e a tua descendência depois de ti, nas suas gerações. Esta é a minha aliança, que guardareis entre mim e vós, e a tua descendência depois de ti: Que todo o homem entre vós será circuncidado. E circuncidareis a carne do vosso prepúcio; e isto será por sinal da aliança entre mim e vós. O filho de oito dias, pois, será circuncidado, todo o homem nas vossas gerações; o nascido na casa, e o comprado por dinheiro a qualquer estrangeiro, que não for da tua descendência. ***Gênesis 17:9-12***.
 
-> “(…) Guardarás a minha aliança, tu e a tua descendência no decurso das suas gerações. Esta é a minha aliança, que guardareis entre mim e vós e a tua descendência: todo macho entre vós será circuncidado. Circuncidareis a carne do vosso prepúcio; será isso por SINAL de aliança entre mim e vós. Ao oitavo dia será circuncidado (…)” (Gênesis 17:9-12).
+> Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; ####e estará a minha aliança na vossa carne#### por aliança perpétua.- ***Gênesis 17:13***
 
-Segundo o livro de Atos, Yeshua fez Brit Milá. No entanto, será que fez exatamente como manda a Torá? vejamos:
+O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-se que Deus está se referindo a Abraão e não simplesmente ao ato de Brit Milá puro e simplesmente. A própria bíblia explica isto. Veja:
 
-> Completados os oito dias para ser circuncidado, deram ao menino o nome de Yeshua (Jesus), como lhe chamara o anjo antes de ser nascido. (…) segundo a Lei de Moisés, levaram-no a Jerusalém para ser apresentado ao Senhor (…) para oferecer sacrifício, segundo o que está escrito na Lei: Um par de rolas ou dois pombinhos.” (Lucas 2:21-24).
+> Disse Deus mais a Abraão: A Sarai tua mulher não chamarás mais pelo nome de Sarai, mas Sara será o seu nome. Porque eu a hei de abençoar, e te darei dela um filho; e a abençoarei, e será mãe das nações; reis de povos sairão dela - ***Gênesis 17:15-16***
 
-#### Pacto Abraâmico
+A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, é carnal. Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido. Negar isto, seria o mesmo que negar a lei "vinda do Eterno".
 
+Se a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo estabelecesse o pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão.
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
