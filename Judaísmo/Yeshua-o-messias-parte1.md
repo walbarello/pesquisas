@@ -195,7 +195,9 @@ E muitos outros.
 
 > Yosef é pai de Yeshua por inseminação Espiritual. ***É assim que creio,*** para que se cumprisse o que estava escrito em relação ao Messias descender de David. A linhagen é verificada pela mãe ja que não teria como comprovar a paternidade, não somente de yeshua , mas todos os iechudim ,***já ouvir falar que Miriam e yosef eram primos***.
 
-Visto que o Eterno criou o homem do pó da terra e a mulher da costela de Adão, de fato não seria problema algum o Eterno fazer uma inseminação espiritual em Maria com os genes de Yosef ( José ) o carpinteiro. O problema, na verdade, começa pelo fato de que o argumento está sendo dado do ponto de vista pessoal ( fé ou opinião pessoal ). Logo, não há crédito argumentativo porque não há base que afirme e sequer indícios que levem a esta questão. Fosse assim, poderíamos pegar tantas especulações do que poderia ocorrer e considerar todas verdades. Mas temos de observar se estas especulações de alguma maneira se harmoniza com a Torá. Afinal, esta sim deve ser a nossa bússola e por ela que devemos nos guiar.
+Visto que o Eterno criou o homem do pó da terra e a mulher da costela de Adão, de fato não seria problema algum o Eterno fazer uma inseminação espiritual em Maria com os genes de Yosef ( José ) o carpinteiro. O problema, na verdade, começa pelo fato de que o argumento está sendo dado do ponto de vista pessoal ( fé ou opinião pessoal ).
+
+Logo, não há crédito argumentativo porque não há base que afirme e sequer indícios que levem a esta questão. Fosse assim, poderíamos pegar tantas especulações do que poderia ocorrer e considerar todas verdades. Mas temos de observar se estas especulações de alguma maneira se harmoniza com a Torá. Afinal, esta sim deve ser a nossa bússola e por ela que devemos nos guiar.
 
 
 Para responder melhor a questão colocada a cima, vamos aprofundar no pacto estabelecido entre Deus e Abraão logo a baixo:
