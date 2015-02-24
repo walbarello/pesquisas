@@ -146,7 +146,7 @@ Como já mencionado, é impossível o relato de ***Lucas 3:23-28*** estar descre
 
 A genealogia de Maria não é revelada na Bíblia. No entanto, há versículos que mostram de qual tribo sua descendência pertencia. Para reforçar,observe estes versículos a baixo:
 
-> Existiu, no tempo de Herodes, rei da Judéia, um sacerdote chamado Zacarias, da ordem de Abias, e cuja mulher era das filhas de Arão; e o seu nome era Isabel. ***Lucas 1:5***
+> Existiu, no tempo de Herodes, rei da Judéia, um sacerdote chamado Zacarias, da ordem de Abias, e cuja mulher era das filhas de ***Arão***; e o seu nome era Isabel. ***Lucas 1:5***
 
 E mais este:
 
@@ -164,7 +164,9 @@ As testemunhas de Jeová por sua vez, tentam explicar esta questão da seguinte 
 
 > Visto que Jesus não era filho do próprio José, mas era o Filho de Deus, a genealogia de Jesus, por Lucas, provaria que ele era, por nascimento humano, filho de Davi, por meio da sua mãe, Maria. 
 
-#### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. E mesmo que surja a hipótese de que por Yeshua/Jesus ser filho de Deus dando margem a suposição de que a descendência de David seria justificada através do Eterno, geraria também outro problema. Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
+#### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. E mesmo que surja a hipótese de que por Yeshua/Jesus ser filho de Deus dando margem a suposição de que a descendência de David seria justificada através do Eterno, geraria também outro problema. 
+
+#### Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
 
 ---
 
