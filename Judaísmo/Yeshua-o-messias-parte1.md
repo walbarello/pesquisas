@@ -212,17 +212,23 @@ Para responder melhor a questão colocada a cima, vamos aprofundar no pacto esta
 
 Um dos símbolos que marcam a entrada de uma criança judia do sexo masculino na aliança abraâmica estabelecida entre os descendentes de Abraão em Isaque e o Criador, é a ***Brit Milá (Aliança do Prepúcio)***, também chamada de circuncisão. Como mostra o versículo a seguir:
 
-> Disse mais Deus a Abraão: Tu, porém, guardarás a minha aliança, tu, e a tua descendência depois de ti, nas suas gerações. Esta é a minha aliança, que guardareis entre mim e vós, e a tua descendência depois de ti: Que todo o homem entre vós será circuncidado. E circuncidareis a carne do vosso prepúcio; e isto será por sinal da aliança entre mim e vós. O filho de oito dias, pois, será circuncidado, todo o homem nas vossas gerações; o nascido na casa, e o comprado por dinheiro a qualquer estrangeiro, que não for da tua descendência. ***Gênesis 17:9-12***.
+> Disse mais Deus a Abraão: Tu, porém, guardarás a minha aliança, tu, e a tua descendência depois de ti, nas suas gerações. Esta é a minha aliança, que guardareis entre mim e vós, e a tua descendência depois de ti: ***Que todo o homem entre vós será circuncidado**. - Gênesis 17:9
 
-> Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; ***e estará a minha aliança na vossa carne*** por aliança perpétua.- ***Gênesis 17:13***
+Isto é, todo homem entre os descendentes de Abraão, fará a Brit Milá "circuncisão". 
 
-O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-se que Deus está se referindo a Abraão e não simplesmente ao ato de Brit Milá puro e simplesmente. A própria bíblia explica isto. Veja:
+> E circuncidareis a carne do vosso prepúcio; e isto será por sinal da aliança entre mim e vós. O filho de oito dias, pois, será circuncidado, todo o homem nas vossas gerações; o nascido na casa, e o comprado por dinheiro a qualquer estrangeiro, que não for da tua descendência. ***Gênesis 17:11-12***.
+
+> Com efeito será circuncidado o nascido em tua casa, e o comprado por teu dinheiro; e estará a minha aliança na vossa carne por aliança perpétua.- ***Gênesis 17:13***
+
+O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-se que Deus está se referindo a Abraão e sua descendencia e não simplesmente ao ato de Brit Milá somente. A própria bíblia explica isto. Veja:
 
 > Disse Deus mais a Abraão: A Sarai tua mulher não chamarás mais pelo nome de Sarai, mas Sara será o seu nome. Porque eu a hei de abençoar, e te darei dela um filho; e a abençoarei, e será mãe das nações; reis de povos sairão dela - ***Gênesis 17:15-16***
 
-A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, ***é carnal***. Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido e não existe registro algum deste acontecido em toda a Bíblia. Negar isto, seria o mesmo que negar a lei "vinda do próprio Eterno".
+A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, ***é carnal***. Não há como passar a primogenitura pela descendência se não for entes da mesma família. Seria o mesmo que dizer que poderia passar as características genéticas, isto é, o gene, para outrem por livre escolha ou negociação, ou venda, que seja. Exceto por irmãos, assim como no caso da descendência obviamente.  Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido e não existe registro algum deste acontecido em toda a Bíblia. Negar isto, seria o mesmo que negar a lei "vinda do próprio Eterno".
 
 Se for criada a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo, automaticamente estaria estabelecendo um pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão. Ou o Eterno ter indo até Abrão para contar de sua geração como conta em Gênesis 17.
+
+
 
 ---
 
