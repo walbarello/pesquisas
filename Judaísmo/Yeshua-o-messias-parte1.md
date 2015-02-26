@@ -115,7 +115,7 @@ Segundo alguns messiânicos, se Yeshua é filho carnal de Yosef (José o carpint
 
 > Observação: Em Mateus 1:20 diz assim: Mas, depois de ter pensado nisso, apareceu-lhe um anjo do Senhor em sonho e disse: "José, filho de Davi, não tema receber Maria como sua esposa, pois o que nela foi gerado procede do Espírito Santo"
 
-O versículo a cima apenas sustenta a interpretação correta de que a primogenitura foi passada apenas e homem para homem tanto que o anjo citou a José como filho de Davi ( e não Maria caso se quizesse argumentar que Maria fosse da descendência de David ). Outro ponto, ainda observando nas escrituras, dá para saber de qual descendência pertencia Maria (Miriam). Observe: 
+O versículo a cima apenas reforça a afirmação de que a primogenitura só pode ser passada apenas de homem para homem tanto que o anjo citou a José como filho de Davi ( e não Maria caso se quizesse argumentar que Maria fosse da descendência de David ). Outro ponto, ainda observando nas escrituras, dá para saber de qual descendência pertencia Maria (Miriam). Observe: 
 
 > No tempo de Herodes, rei da Judéia, havia um sacerdote chamado Zacarias, que pertencia ao grupo sacerdotal de Abias; ***Isabel, sua mulher, também era descendente de Arão*** - Lucas 1:5
 
