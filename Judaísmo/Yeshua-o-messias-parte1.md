@@ -257,5 +257,7 @@ Pois, se fosse seguir esta linha de raciocínio, poderia simplesmente ao invés 
 
 E isto explica o que exatamente? em que ponto esta passagem comprova que Yeshua/Jesus é, de fato, descendente de David? É importante frizar que este artigo está sendo acompanhado por Judeus Ortodoxos. Logo, se por acaso vier a fazer alguma critica ou analogia errônea, haverá correções.
 
+---
+
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
