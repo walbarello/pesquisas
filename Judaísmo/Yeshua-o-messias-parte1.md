@@ -226,7 +226,9 @@ O que você entendeu por aliança na vossa carne por aliança perpétua? lembre-
 
 A forma da qual o Eterno estabelece que seja passada a descendência de Abraão, ***é carnal***. Não há como passar a primogenitura pela descendência se não for entes da mesma família. Seria o mesmo que dizer que poderia passar as características genéticas, isto é, o gene, para outrem por livre escolha ou negociação, ou venda, que seja. Exceto por irmãos, assim como no caso da descendência obviamente.  Ou seja, não é sustentada em hipotese alguma em toda a Torá e Tanach que a primogenitura seja passada por ***inseminação espiritual*** coisa que sequer faz sentido e não existe registro algum deste acontecido em toda a Bíblia. Negar isto, seria o mesmo que negar a lei "vinda do próprio Eterno".
 
-Se for criada a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo, automaticamente estaria estabelecendo um pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão. Ou o Eterno ter indo até Abrão para contar de sua geração como conta em Gênesis 17.
+Se for criada a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo, automaticamente estaria estabelecendo um pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão. Ou o Eterno ter indo até Abrão para contar de sua geração como conta em Gênesis 17. 
+
+Além do que, a palavra descendência, quer dizer ***relação de parentesco*** que se estabelece através da proveniência de um antepassado comum. Já a palavra ***parentesco***, dentro do contexto que rege a palavra descendência, quer dizer exatamente ***relação que une duas ou mais pessoas por vínculos de SANGUE***. Isto é, o parentesco estabelecido mediante um antepassado, em comum, é chamado ***parentesco consanguíneo*** enquanto quei, o parentesco criado pelo casamento e outras relações sociais, recebe o nome de parentesco por afinidade (que não faz parte deste contexto) já que foge do conceito descendência por não levar os genes, a genética do antepassado ascendente ou descendente. 
 
 
 ---
