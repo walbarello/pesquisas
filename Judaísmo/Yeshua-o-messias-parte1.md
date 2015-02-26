@@ -229,8 +229,33 @@ A forma da qual o Eterno estabelece que seja passada a descendência de Abraão,
 Se for criada a hipótese de que "qualquer homem" que fizesse a circuncisão naquele tempo, automaticamente estaria estabelecendo um pacto com o Eterno, logo, sequer faria sentido o Tanach ( antigo testamento ) contar a geração dos filhos de Abraão. Ou o Eterno ter indo até Abrão para contar de sua geração como conta em Gênesis 17.
 
 
-
 ---
+
+### Direito de resposta
+
+O rapaz que citou anteriormente uma contagem que particularmente penso em não ter respondido a questão, resolveu voltar e se explicar. Vejamos o que ele tem a nos dizer:
+
+> Que interessante. Vamos só ratificar algumas coisas e paro de escrever. A citação "assustadora" por utilizar a guematria para justificar o número 14 do livro de Mateus, nem é um artifício/ferramenta "cristã" e sim judaica muito utilizada pelos ortodoxos hoje em dia com a Cabala. Ou seja, dizer que e um argumento de fé, é perdão por dizer, errado pois para um cristão goyim, "não importa" de onde Yeshua veio e sim o que Ele veio fazer aqui. A preocupação em entender que ELe é da linguagem de David é puramente judaica pois o Messias sairia dessa linhagem.
+
+Bem, sendo assim, a visão Judaica, convenhamos, é a correta. Veja bem, nos escritos Judaicos do qual os messingélicos chamam de "antigo testamento", há nele profetas que falam da vinda de um Messias (até aqui todos os messingélicos/messiânicos ***aceitam sem contrariar***). Assumir que este messias seja Jesus/Yeshua, no entanto, requer comprovação ciêntífica e contextual das escrituras. É extremamente importante conferir se a Brit Hadacha ( também chamado de novo testamento ), está em harmônia com o Tanach, Torá, Bíblia Judaica. Do contrário, se configura como especulação de fé pessoal, ponto de vista pessoal. Sendo assim, eu poderia dizer que o messias é qualquer pessoa; Buda, Allah, Inri Cristo, entre vários outros. É importante ressaltar que só por entrar em contradição com a Torá e o Tanach, já responde a questão como ***falsa***.
+
+> Ou seja, dizer que Mateus se utilizou desse número apenas por questões de memorização, sendo que ele omite propositamente, sem falar que alguns reis ainda colocam mulheres estrangeiras na genealogia e que não tem nada além disso, desculpe dizer, mas é falta de conhecimento da própria cultura judaica que não fecha as questões bíblia e sim as expande através de argumentos e questionamentos.
+
+O problema, é que em lugar algum ( muito menos neste artigo ), há referência quanto à questão numérica como memorização ou inserção de mulheres estrangeiras na genealogia descrita por Mateus. Como pode dizer que não tenho conhecimento da cultura judaica a partir de algo que sequer foi debatido aqui? muito cuidado para não usar o "Argumentum ad hominem", isto é, argumento contra a pessoa e acabar esquecendo os seus argumentos em defesa de sua fé. Voltemos ao foco, por favor.
+
+> Você vê isso em comantários de Nachmanides "***Ramban***", Rashi e outros sábios. ELes chegam a divergir entre si com citações que mereceriam muito mais "fé" do que esse texto. Nem por isso deixam de ser ouvidos e admirados pelo ato de questionar e sugerir interpretações. Para um rabino da época, isso faria perfeitamente sentido. Ou seja, o número estar relacionado com David. Principalmente porque 14 não representa nada na cultura judaica e 3,10,12,40,7,8 todos esses são números relevantes nas escrituras.
+
+Poderia o Senhor colocar fontes onde sábios como Nachmanides ou Rashi e outros sábios defendem o seu ponto? lembrando que o ponto em questão, é comprovar que Yeshua/Jesus é da descendência de David através de José (Yosef) já que é impossível que ele seja da descendência de David através de Maria. A contagem, os números, a numerologia por você usada, prova isto? ou o argumento dos sábios rabinos? sinta-se livre para mostrar-me referências sem fugir do assunto. 
+
+> Agora 14 o que significa??? Porque ele fez questão de enfatizar isso nos textos??? Essa é a pergunta que tem que ser feita. Mas se isso não prova nada, verifiquemos o restante do livro de Mateus. Sempre Yeshua aparece falando em montes. O livro é construído em discursos. Ele trás ao povo as leis se Moshe (Mt. 5,6,7). Como se Ele fosse um "segundo Moshe" e enfatiza que Yeshua nasceu de uma virgem (Is. 7:14). Provavelmente se você fosse conversar com um judeu ortodoxo ele falaria que a palavra para virgem (almá) em Isaías esta mal traduzida. Mas enfim, apresenta que Yeshua nasceu em Belém (Mq. 5:2 ou 1 na bíblia hebraica).
+
+Mateus divide a genealogia de Abraão a Jesus em três seções de 14 gerações cada uma. (Mt 1:17) Esta divisão pode ter sido feita como ajuda para a memória. No entanto, ao contarmos os nomes, verificamos que totalizam 41, em vez de 42. Uma sugestão a respeito de como podem ser contados é a seguinte: Contar os nomes de Abraão até Davi, 14 nomes; usar então Davi como nome inicial do segundo grupo de 14, tendo Josias por último; finalmente, encabeçar a terceira série de 14 nomes com Jeconias (Joaquim) e terminá-la com Jesus.***O problema***, é que não se pode termina-la com Jesus/Yeshua puro e simplesmente por que eles assim adotaram, decidiram fazer. 
+
+Pois, se fosse seguir esta linha de raciocínio, poderia simplesmente ao invés de colocar Jesus, colocar Tiago. Tiago, provavelmente, foi o primogênito de José "visto que Maria e José(Yosef), tiveram 4 filhos" e segundo o próprio Mateus em sua contagem genealógica, José era descendente de David. Logo, Tiago receberia a primogenitura de acordo e em harmônia com o Tanach e Torá. Tiago tem mais legitimidade do que Jesus/Yeshua. Mas isto não faz dele o Messias. Tampouco a Jesus/Yeshua. Como também não responde a questão.
+
+> Mateus se preocupa em fazer conexões no Tanakh na vida de Yeshua (Os. 11:1 falando do Seu retorno da terra do Egito). Os paralelos são muitos. Por isso que não dá para falar tudo por aqui...esse é o primeiro ponto.
+
+E isto explica o que exatamente? em que ponto esta passagem comprova que Yeshua/Jesus é, de fato, descendente de David? É importante frizar que este artigo está sendo acompanhado por Judeus Ortodoxos. Logo, se por acaso vier a fazer alguma critica ou analogia errônea, haverá correções.
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
