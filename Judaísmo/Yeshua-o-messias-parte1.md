@@ -177,7 +177,7 @@ Logo, quem fora pai de Arão? Hezrom ou Anrão como conta o Êxodo? ***Rão*** n
 
 Se Rão é Arão, cade Moises em 1 Crônicas 2:9?
 
-Logo, a imagem a cima bem como o relato de Mateus está completamente errado.
+Logo, a imagem a cima bem como o relato de Mateus quanto a genealogia de Jesus, está completamente errado. Além do que, como já vimos, não tem como sair de Abraão e chegar a Jesus/Yeshua ( já que não tem vias possíveis nem por Maria, tampouco por José).
 
 ---
 
