@@ -313,4 +313,9 @@ E isto explica o que exatamente? em que ponto esta passagem comprova que Yeshua/
 
 A única hipótese que poderia sustentar o fato de Jesus/Yeshua ser descendente de David segundo o Tanach e Torá, seria se o primogênito carnal de José, isto é, o mais velho dos quatro irmãos por parte de mãe de Jesus/Yeshua, tivesse dado ou vendido, negociado a primogenitura a ele. Mas ainda sim, geraria problema. Visto que Jesus/Yeshua não tem relação carnal com José, a primogenitura não seria permitida ser passada, negociada ou vendida a Jesus/Yeshua.
 
-Sem falar que não há relato disso nas escrituras e seria de extrema importancia haver fosse o caso. Mas não é.   
+Sem falar que não há relato disso nas escrituras e seria de extrema importancia haver fosse o caso. Mas não é.  
+
+
+Fontes:
+* **1**[Bíblia Hebraica/Português](http://www.cafetorah.com/portal/Biblia-Hebraico-Portugues-Online)
+* **2**[The true authorship of the New Testament](http://www.amazon.com/exec/obidos/tg/detail/-/0930808029/qid=1126627643/sr=1-1/ref=sr_1_1/104-4692800-9955915?v=glance&s=books) 
