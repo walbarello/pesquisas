@@ -308,3 +308,9 @@ E isto explica o que exatamente? em que ponto esta passagem comprova que Yeshua/
 
 #### Como então se explica que Jesus/Yeshua, é da descendência de David? ou ele é e tem como explicar ***segundo a Bíblia***, ou algum texto anterior ao Novo testamento (também referenciada como Brit Hadasha em Hebraico ), mas que além de apresentar Yeshua/Jesus, mostre também seus ensinamentos e resposta a este ***problema***. Do contrário, fica impossível dizer que Jesus/Yeshua é o messias das profecias do antigo testamento ( Tanach e Torá ).
 
+
+#### Hipótese
+
+A única hipótese que poderia sustentar o fato de Jesus/Yeshua ser descendente de David segundo o Tanach e Torá, seria se o primogênito carnal de José, isto é, o mais velho dos quatro irmãos por parte de mãe de Jesus/Yeshua, tivesse dado ou vendido, negociado a primogenitura a ele. Mas ainda sim, geraria problema. Visto que Jesus/Yeshua não tem relação carnal com José, a primogenitura não seria permitida ser passada, negociada ou vendida a Jesus/Yeshua.
+
+Sem falar que não há relato disso nas escrituras e seria de extrema importancia haver fosse o caso. Mas não é.   
