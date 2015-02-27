@@ -156,6 +156,31 @@ Moisés e seu irmão o sacerdote Aarão, foram ambos levitas e descendentes not�
 
 > Os filhos de Levi foram: Gérson, Coate e Merari,E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel. E os filhos de Anrão: ***Arão***, Moisés, e Miriã; e os filhos de Arão: Nadabe, Abiú, Eleazar, e Itamar. ***1 Crônicas 6:1-3***.
 
+---
+
+Muito cuidado com a deturpação que fazem. Por exemplo, veja a imagem a seguir:
+![imgarvore](http://www.cmisericordia.com.br/wp-content/uploads/17-XCAPAarvore-genealogia.jpg)
+
+O que tem de errado nesta imagem? Observe que Arão está na genealogia de Abraão até José e Jesus. Aqui encontramos erros graves. Primeiro porque diz que Esrom ***"Pai de Arão"***, era filho de Farés. Observe que em 1 Crônicas 6:1-3, diz extamente que Esrom é filho de Perez "traduziram o nome de Pérez ben Yəhûdāh para Farés". Qual o sentido de traduzir nomes? se não para tirar a legitimidade Judaica? ou você se chama outra coisa em outro País? podem até tentar lhe chamar. No entanto, seu RG continuará o mesmo.
+
+Mas o erro grave ainda não é este. O erro grave é atrelar Arão a genealogia de Maria por citar Abraão "maldosamente" na tentativa de justificar que de alguma maneira Maria seja descendente de David. Primeiro que não se pode contar a genealogia de mulher para homem como já foi mencionado. Observe que passam de ***Tamar para Pérez "Farés".*** O correto, segundo 1 Crônicas 2:4-5, apesar de relatar a quem Tamar gerou o que é muito comum no Tanach, a continuação da genealogia sempre é dada de homem para homem como conta em 1 Crônicas 2:5.
+
+Além disso, ***entre os filhos de Esrom "Hezrom", Arão não está na lista***. Veja:
+
+> E os filhos de Hezrom, que lhe nasceram, foram Jerameel, e Rão, e Quelubai. - ***1 Crônicas 2:9***.i
+
+Exceto se , ***RÃO*** esteja sendo assumido como ***ARÃO***. Mas será? vejamos:
+
+> E Anrão tomou por mulher a Joquebede, sua tia, e ela deu-lhe Arão e Moisés: e os anos da vida de Anrão foram cento e trinta e sete anos. ***Êxodo 6:20***
+
+Logo, quem fora pai de Arão? Hezrom ou Anrão como conta o Êxodo? ***Rão*** nada tem a ver com Arão irmão de Moisés. Até porque Hezrom não teve Moisés como filho e Arão era o irmão mais velho de Moises. São contextos diferentes.
+
+Se Rão é Arão, cade Moises em 1 Crônicas 2:9?
+
+Logo, a imagem a cima bem como o relato de Mateus está completamente errado.
+
+---
+
 ### Ficou claro? Maria é prima de Isabel, e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo, é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste. E como já citei, filho adotivo ou bastardo, não recebem a primogenitura (basta acompanhar a história de Ismael filho de Agar com Abraão no deserto).
 
 ---
@@ -167,6 +192,17 @@ As testemunhas de Jeová por sua vez, tentam explicar esta questão da seguinte 
 #### Problema 5 - Como já disse antes, é impossível ser descendênte de David por meio de Maria que é decendente da tribo de Leví entre outras questões já citadas. E mesmo que surja a hipótese de que por Yeshua/Jesus ser filho de Deus dando margem a suposição de que a descendência de David seria justificada através do Eterno, geraria também outro problema. 
 
 #### Pois, no caso do Eterno, se Jesus/Yeshua fosse descendente de David através de Deus, logo Deus teria de existir depois de David o que tornaria David ascendente do Eterno e não descendente. E como bem sabemos, nada existe antes do Eterno se não ele próprio. Além disto, qual sentido em quebrar toda a cadeia de descendência desde Adão a Abrãao, de Abraão, até David, e de David até José marido de Maria para "do nada", vir o Eterno e "furar fila (literalmente)"? isto não tem sentido algum.
+
+As testemunhas de Jeová ainda dizem o seguinte:
+
+> Maria era da tribo de Judá e descendente de Davi. Por isso, podia-se dizer que o filho dela, Jesus, “procedeu do descendente [literalmente: semente] de Davi segundo a carne”. (Ro 1:3) Através de seu pai adotivo, José, descendente de Davi, Jesus tinha o direito legal ao trono de Davi, e através de sua mãe, como “descendência”, “descendente [semente]” e “raiz” de Davi, ele tinha o direito hereditário natural ao “trono de Davi, seu pai”. — Mt 1:1-16; Lu 1:32; At 13:22, 23; 2Ti 2:8; Re 5:5; 22:16. 
+
+> Se a tradição for correta, a esposa de Eli, mãe de Maria, era Ana, cuja irmã tinha uma filha chamada Elisabete, mãe de João, o Batizador. Esta tradição tornaria Elisabete a prima de Maria. Que Maria era parente de Elisabete, que era “das filhas de Arão”, da tribo de Levi, é declarado pelas próprias Escrituras. (Lu 1:5, 36) Alguns acharam que a irmã de Maria tenha sido Salomé, esposa de Zebedeu, cujos dois filhos, Tiago e João, foram contados entre os apóstolos de Jesus. — Mt 27:55, 56; Mr 15:40; 16:1; Jo 19:25.
+''
+Percebeu o contraste? primeiro alegam que Maria é da tribo de Judá dos descendentes de Davi, e logo a baixo reconhecem que Maria era prima de Isabel "referenciada como ELisabete" que é descendente da tribo de Levi.Agora leia o Tanach e o pentateuco (Torá) e veja toda a contradição com o NT (Novo Testamento) usado largamente como referência para se chegar a esta conveniente conclusão. A genealogia está convenientemente ligando descendencias para justificar o X da questão. Isto é, de alguma maneira muito misteriosa, tentar atrelar Maria a David.
+
+O curioso, é que só Mateus e Lucas que sustentam esta afirmação de que Maria seja da tribo de Judá ( contrariando todo o "antigo testamento" e a ela mesma).
+
 
 ---
 
@@ -254,6 +290,13 @@ Poderia o Senhor colocar fontes onde sábios como Nachmanides também conhecido 
 > Agora 14 o que significa??? Porque ele fez questão de enfatizar isso nos textos??? Essa é a pergunta que tem que ser feita. Mas se isso não prova nada, verifiquemos o restante do livro de Mateus. Sempre Yeshua aparece falando em montes. O livro é construído em discursos. Ele trás ao povo as leis se Moshe (Mt. 5,6,7). Como se Ele fosse um "segundo Moshe" e enfatiza que Yeshua nasceu de uma virgem (Is. 7:14). Provavelmente se você fosse conversar com um judeu ortodoxo ele falaria que a palavra para virgem (almá) em Isaías esta mal traduzida. Mas enfim, apresenta que Yeshua nasceu em Belém (Mq. 5:2 ou 1 na bíblia hebraica).
 
 Mateus divide a genealogia de Abraão a Jesus em três seções de 14 gerações cada uma. (Mt 1:17) Esta divisão pode ter sido feita como ajuda para a memória. No entanto, ao contarmos os nomes, verificamos que totalizam 41, em vez de 42. Uma sugestão a respeito de como podem ser contados é a seguinte: Contar os nomes de Abraão até Davi, 14 nomes; usar então Davi como nome inicial do segundo grupo de 14, tendo Josias por último; finalmente, encabeçar a terceira série de 14 nomes com Jeconias (Joaquim) e terminá-la com Jesus.***O problema***, é que não se pode termina-la com Jesus/Yeshua puro e simplesmente por que eles assim adotaram, decidiram fazer. 
+
+Além disso, se você prestou atenção em Jeremias 22:30, está escrito:
+
+> Assim diz o Senhor: Escrevei que este homem está privado de filhos, homem que não prosperará nos seus dias; porque nenhum da sua geração prosperará, para se assentar no trono de Davi, e reinar ainda em Judá.
+
+Isto é, está se referindo a Jeconias ( Leia Jeremias 22:28). Mateus cita Jeconias como parte da descendencia e dos 14 nomes citados. O problema é que o Tanach reprova esta afirmação.
+
 
 Pois, se fosse seguir esta linha de raciocínio, poderia simplesmente ao invés de colocar Jesus, colocar Tiago. Tiago, provavelmente, foi o primogênito de José "visto que Maria e José(Yosef), tiveram 4 filhos" e segundo o próprio Mateus em sua contagem genealógica, José era descendente de David. Logo, Tiago receberia a primogenitura de acordo e em harmônia com o Tanach e Torá. Tiago tem mais legitimidade do que Jesus/Yeshua. Mas isto não faz dele o Messias. Tampouco a Jesus/Yeshua. Como também não responde a questão.
 
