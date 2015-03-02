@@ -1,6 +1,8 @@
 Há diversas questões que colocam em dúvida se de fato Jesus Cristo (ou Yeshua,Ieshua), tratando-se da mesma pessoa ou de dois personagens diferentes, como queira, são de fato o Mashiach (Messias). Lembrando que Messias que dizer o ***ungido***, o consagrado de Deus. E refere-se, principalmente, à profecia da vinda de um humano descendente do Rei David, que irá reconstruir a nação de Israel e restaurar o reino de David, trazendo desta forma a paz ao mundo.
 
-Para introduzir e chegar a uma linha de raciocínio coerente para este primeiro questionamento, farei algumas analogias resgatando a história de personagens existente na Torá e no Tanach ou (Antigo Testamento) em paralelo ao Novo testamento ou (Brit Hadasha). Então vamos lá:
+A segunda parte deste estudo, será baseado na literatura rabínica uma vez que a Brit Hadashá (Novo Testamento), não responde às questões levantadas neste estudo, Além disto, por ser comprovado através das história e principalmente sua origem, que não é um livro sagrado, que contém centenas de erros de base geográfica, numérica, matemática, contextual e textual. Segundo alguns que se dizem judeus e que dizem carregar as palavras verdadeiras daquele que consideram Mashiach "Yeshua", não há como provar o Mashiach pela Brit Hadasha (Novo Testamento).
+
+Para introduzir e chegar a uma linha de raciocínio coerente para este primeiro questionamento, farei algumas analogias resgatando a história de personagens existente na Torá "também conhecido como pentateuco" e no Tanach ou (Antigo Testamento) em paralelo ao Novo testamento ou (Brit Hadasha). Então vamos lá:
 
 ### Onã
 
@@ -55,13 +57,13 @@ Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter, Meseque. 18 Arfaxade gerou S
 
 ### O Problema
 
-Da genealogia de Abraão até David tudo ocorre nos conformes. No entanto, da genealogia de David até José (Yosef) contada a partir de Yeshua ou JC como preferir, ocorre um problema sério. Vejamos:
+Da genealogia de Abraão até David tudo ocorre nos conformes. No entanto, da genealogia de David até José (Yosef) contada a partir de Yeshua ou Jesus Cristo como preferir, ocorre um problema sério. Vejamos:
 
 ### Mateus 1:1-17 diz assim:
 Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão.
 Abraão gerou a Isaque; e Isaque gerou a Jacó; e Jacó gerou a Judá e a seus irmãos;
-E Judá gerou, de Tamar, a Perez e a Zerá; e Perez gerou a Esrom; e Esrom gerou a Arão;
-E Arão gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom;
+E Judá gerou, de Tamar, a Perez e a Zerá; e Perez gerou a Esrom; e Esrom gerou a ***Arão***;
+E ***Arão*** gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom;
 E Salmom gerou, de Raabe, a Boaz; e Boaz gerou de Rute a Obede; e Obede gerou a Jessé;
 E Jessé gerou ao rei Davi; e o rei Davi gerou a Salomão da que foi mulher de Urias.
 E Salomão gerou a Roboão; e Roboão gerou a Abias; e Abias gerou a Asa;
@@ -87,19 +89,20 @@ E Er de Josué, e Josué de Eliézer, e Eliézer de Jorim, e Jorim de Matã, e M
 E Levi de Simeão, e Simeão de Judá, e Judá de José, e José de Jonã, e Jonã de Eliaquim,
 E Eliaquim de Meleá, e Meleá de Mená, e Mená de Matatá, e Matatá de Natã, e Natã de Davi,
 E Davi de Jessé, e Jessé de Obede, e Obede de Boaz, e Boaz de Salá, e Salá de Naassom,
-E Naassom de Aminadabe, e Aminadabe de Arão, e Arão de Esrom, e Esrom Perez, e Perez de Judá,
+E Naassom de Aminadabe, e Aminadabe de ***Arão***, e ***Arão*** de Esrom, e Esrom Perez, e Perez de Judá,
 E Judá de Jacó, e Jacó de Isaque, e Isaque de Abraão, e Abraão de Terá, e Terá de Nacor,
 E Nacor de Seruque, e Seruque de Ragaú, e Ragaú de Fáleque, e Fáleque de Eber, e Eber de Salá,
 E Salá de Cainã, e Cainã de Arfaxade, e Arfaxade de Sem, e Sem de Noé, e Noé de Lameque,
 E Lameque de Matusalém, e Matusalém de Enoque, e Enoque de Jarete, e Jarete de Maleleel, e Maleleel de Cainã,
 E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 
-#### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus em número e nomes.
+#### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus em número e nomes. Se deseja ver a genealogia correta dos descendentes da tribo de Judá, Levi e todos os outros, consulte 1 Crônicas 1 em diante. Há muita especulações para tentar explicar a genealogia descrita em Lucas e a descrita em Mateus. No entanto, nenhuma especulação entra em harmonia com o Tanach em 1 Crônicas. Além do que, há muitas tentativas de traduções de nome que acaba confundindo o leitor, estudante, pesquisador das escrituras. Sem falar de nomes que estão em contextos completamente errados como é o caso de Arão irmão mais velho de Moisés. O filho de de Hezrom "Esrom" não foi Arão e sim RÃO que não tem absolutamente nada a ver Arão da tribo de Levi.
+
 #### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá (Lei de Moisés) e tampouco do Tanach (Bíblia Judaica/Hebraica).
 
 #### Jesus/Yeshua não é filho carnal de Yosef (José). E segundo a Torá, filhos bastardos ou adotivos não recebem o direito da primogenitura. Veja o caso de Ismael filho bastardo de Abraão com Agar sua escrava. Ismael não recebeu o direito a primogenitura que foi dada a Isaac filho de Abraão com Sara. Observe o versículo a baixo:
 
-> E disse Deus: Na verdade, Sara, tua mulher, te dará um filho, e chamarás o seu nome Isaque, e com ele estabelecerei a minha aliança, por aliança perpétua para a sua descendência depois dele. E quanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação. A minha aliança, porém, estabelecerei com Isaque, o qual Sara dará à luz neste tempo determinado, no ano seguinte.
+> E disse Deus: Na verdade, Sara, tua mulher, te dará um filho, e chamarás o seu nome Isaque, e com ele estabelecerei a minha aliança, por aliança perpétua para a sua ***descendência*** depois dele. E quanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação. ***A minha aliança, porém,*** estabelecerei com Isaque, o qual Sara dará à luz neste tempo determinado, no ano seguinte.
 
 Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
@@ -134,7 +137,7 @@ Outro rapaz que se identifica como Judeu Messiânico, respondeu da seguinte mane
 > Por que o número 14 é importante???Porque representa o número do nome de Davi em hebraico (דוד - David) sendo a letra ד (dalet = 4) e ו (vav = 6), vogais não são contadas em hebraico, somente as consoantes. Assim 4 + 6 + 4  = 14. Ou seja, a ênfase no livro de Mateus é mostrar Jesus como um Judeu, por isso faz essa relação como ele sendo um descendente de David. Qualquer Judeu que lê-se esse versos faria rapidamente essa associação
 Agora porque é importante/necessário que ele seja um descendente de Davi???
 
-Bem, nesta resposta encontramos uma incoerência ***ASSUSTADORA***. É como alguém perguntar: Porque Hashem é Deus e outro alguém responder: Porque 2+2 é 4 e 3+3 é 6. Que sentido isto faz? entendo que os números tem sua devida importancia ao que se refere a doutrina Judaica. No entanto, é coerente usar os números quando estes ***fazem algum sentido lógico***. Nenhum Judeu trata o Tanach e tampouco a Torá como algo abstrado, sem explicação lógica. Do contrário, é opinião pessoal, fé pessoal.
+Bem, nesta resposta encontramos uma incoerência ***ASSUSTADORA***. É como alguém perguntar: Porque Hashem é Deus e outro alguém responder: Porque 2+2 é 4 e 3+3 é 6. Que sentido isto faz? ***entendo que os números tem sua devida importância ao que se refere ao Judaísmo***. No entanto, é coerente usar os números quando estes ***fazem algum sentido lógico***. Nenhum Judeu trata o Tanach e tampouco a Torá como algo abstrado, sem explicação lógica. Do contrário, é opinião pessoal, fé pessoal.
 
 E ele continuou:
 
@@ -201,7 +204,7 @@ As testemunhas de Jeová ainda dizem o seguinte:
 
 Perceberam o contraste? primeiro alegam que Maria é da tribo de Judá dos descendentes de Davi, e logo a baixo reconhecem que Maria era prima de Isabel "referenciada como ELisabete" que é descendente da tribo de Levi.Agora leia o Tanach e o pentateuco (Torá) e veja toda a contradição com o NT (Novo Testamento) usado largamente como referência para se chegar a esta conveniente conclusão. A genealogia está convenientemente ligando descendencias para justificar o X da questão. Isto é, de alguma maneira muito misteriosa, tentar atrelar Maria a David.
 
-O curioso, é que só Mateus e Lucas que sustentam esta afirmação de que Maria seja da tribo de Judá ( contrariando todo o "antigo testamento" e a ela mesma).
+O curioso, é que só Mateus e Lucas que sustentam esta afirmação de que Maria seja da tribo de Judá ( contrariando todo o "antigo testamento" e a ela mesma) foque no livro de Crônicas e estude a genealogia dos descendentes de David e verá muitos erros com a genealogia destacada tanto em Mateus, quanto em Lucas. Principalmente quando dizem que Arão era fiho de Hezrom (ou Esrom) sendo o filho de Hezrom RÃO e não Arão irmão mais velho de Moisés. Acompanhe o estudo até o fim.
 
 
 ---
