@@ -318,6 +318,8 @@ A única hipótese que poderia sustentar o fato de Jesus/Yeshua ser descendente 
 
 Sem falar que não há relato disso nas escrituras e seria de extrema importancia haver fosse o caso. Mas não é.  
 
+Ainda que Yosef (José), o reconhecesse como Judeu "que é de direito por ter nascido de mãe Judia", ainda sim, não o tornaria "descendente" de David e tampouco de Yosef (José). Logo, se não tem relação de sangue com a casa de Judá, não é o messias.
+
 
 Fontes:
 * **1**[Bíblia Hebraica/Português](http://www.cafetorah.com/portal/Biblia-Hebraico-Portugues-Online)
