@@ -100,11 +100,11 @@ E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 
 #### Problema 2 - Porque o livro de Mateus se preocupa tanto em descrever uma página inteira da descendência de Yosef (José o carpinteiro), sendo que ele sequer é pai biológico de Yeshua/Jesus? ou seja, ele não segue a linhagem de primogenitura da Torá (Lei de Moisés) e tampouco do Tanach (Bíblia Judaica/Hebraica).
 
-#### Jesus/Yeshua não é filho carnal de Yosef (José). E segundo a Torá, filhos bastardos ou adotivos não recebem o direito da primogenitura. Veja o caso de Ismael filho bastardo de Abraão com Agar sua escrava. Ismael não recebeu o direito a primogenitura que foi dada a Isaac filho de Abraão com Sara. Observe o versículo a baixo:
+#### Jesus/Yeshua não é filho carnal de Yosef (José). E segundo o judaísmo, filhos bastardos ou adotivos não recebem o direito da primogenitura e sequer podem ir as sinagogas ou se casar com outros judeus. Veja o caso de Ismael filho bastardo de Abraão com Agar sua escrava. Para o filho ser Judeu, basta nascer de mãe judia. No entanto, para ser descendente, isto é, carregar os gênes de seus antepassados, é necessário haver relação carnal, consanguínea.  Ismael não recebeu o direito a primogenitura que foi dada a Isaac filho de Abraão com Sara apesar dele ser filho autêntico e descendênte de Abraão. Observe o versículo a baixo:
 
 > E disse Deus: Na verdade, Sara, tua mulher, te dará um filho, e chamarás o seu nome Isaque, e com ele estabelecerei a minha aliança, por aliança perpétua para a sua ***descendência*** depois dele. E quanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação. ***A minha aliança, porém,*** estabelecerei com Isaque, o qual Sara dará à luz neste tempo determinado, no ano seguinte.
 
-Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
+Ismael não recebeu a primogenitura mas poderia (porque ele havia o gene de Abraão diferentemente de Yeshua que nasceu sem os genes de José). Muitos atribuem que a genealogia descrita em Lucas, se refere a genealogia de Maria (Miriam). Aí surge um terceiro problema. Maria não poderia ser referência de descendência pelo o que já foi explicado. A referência de descendencia sempre é dada de primogênito a primogênito "homem".
 
 Uma explicação dada pelo Judaísmo Messingèlico (messiânico), está em Romanos 1:1 a 3 que diz:
 
@@ -112,7 +112,7 @@ Uma explicação dada pelo Judaísmo Messingèlico (messiânico), está em Roman
 
 Segundo alguns messiânicos, se Yeshua é filho carnal de Yosef (José o carpinteiro), e decendente ***carnal*** de David da tribo de Yudah (Judá), então se conclui que Yeshua foi gerado milagrosamente através do poder do Espírito de YHWH e entende-se que o próprio Espírito do Eterno o inseriu. Cumprindo assim a profecia em Isaias 7:14 em Mateus 1:20.
 
-#### Problema 4 - Há um problema muito grave na interpretação dos messiânicos. Se eles resolvem interpretar desta maneira, logo, todo o relato dado a Maria (Miriam) de como o Espírito Santo iria convencer a José da gravidez, é falso. O relato confirma que José não sabia que ela engravidaria do Espírito de YHWH (Espírito Santo de Deus) Mateus 1:18-25. 
+#### Problema 4 - Há um problema muito grave na interpretação dos messiânicos. Se eles resolvem interpretar desta maneira, logo, todo o relat o dado a Maria (Miriam) de como o Espírito Santo iria convencer a José da gravidez, é falso. O relato confirma que José não sabia que ela engravidaria do Espírito de YHWH (Espírito Santo de Deus) Mateus 1:18-25. 
 
 #### O relato ainda diz "Ao acordar, José fez o que o anjo do Senhor lhe tinha ordenado e recebeu Maria como sua esposa. Mas não teve relações com ela enquanto ela não deu à luz um filho. E ele lhe pôs o nome de Jesus." Neste caso, ou o novo testamento tem erros gritantes, ou simplesmente Jesus ou Yeshua, não é da descendência de David. Isto é, não cumpre nenhuma profecia do Tanach ( antigo testamento ) e está invalidado como Messias.
 
@@ -184,7 +184,7 @@ Logo, a imagem a cima bem como o relato de Mateus quanto a genealogia de Jesus, 
 
 ---
 
-### Ficou claro? Maria é prima de Isabel, e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo, é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste. E como já citei, filho adotivo ou bastardo, não recebem a primogenitura (basta acompanhar a história de Ismael filho de Agar com Abraão no deserto).
+### Ficou claro? Maria é prima de Isabel, e Isabel é descendente de Aarão. Aarão por sua vez, é da tribo de Leví e David é da tribo da Judá. Logo, é impossível que Jesus/Yeshua, seja da descendencia de David através de Maria. Do mesmo modo, é impossível também que Jesus/Yeshua, seja descendente de José por não ser filho biológico deste, não carregar seus genes, não ser descendente. 
 
 ---
 
