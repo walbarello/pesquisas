@@ -112,7 +112,7 @@ Uma explicação dada pelo Judaísmo Messingèlico (messiânico), está em Roman
 
 Segundo alguns messiânicos, se Yeshua é filho carnal de Yosef (José o carpinteiro), e decendente ***carnal*** de David da tribo de Yudah (Judá), então se conclui que Yeshua foi gerado milagrosamente através do poder do Espírito de YHWH e entende-se que o próprio Espírito do Eterno o inseriu. Cumprindo assim a profecia em Isaias 7:14 em Mateus 1:20.
 
-#### Problema 4 - Há um problema muito grave na interpretação dos messiânicos. Se eles resolvem interpretar desta maneira, logo, todo o relat o dado a Maria (Miriam) de como o Espírito Santo iria convencer a José da gravidez, é falso. O relato confirma que José não sabia que ela engravidaria do Espírito de YHWH (Espírito Santo de Deus) Mateus 1:18-25. 
+#### Problema 4 - Há um problema muito grave na interpretação dos messiânicos. Se eles resolvem interpretar desta maneira, logo, todo o relato dado a Maria (Miriam) de como o Espírito Santo iria convencer a José da gravidez, é falso. O relato confirma que José não sabia que ela engravidaria do Espírito de YHWH (Espírito Santo de Deus) Mateus 1:18-25. 
 
 #### O relato ainda diz "Ao acordar, José fez o que o anjo do Senhor lhe tinha ordenado e recebeu Maria como sua esposa. Mas não teve relações com ela enquanto ela não deu à luz um filho. E ele lhe pôs o nome de Jesus." Neste caso, ou o novo testamento tem erros gritantes, ou simplesmente Jesus ou Yeshua, não é da descendência de David. Isto é, não cumpre nenhuma profecia do Tanach ( antigo testamento ) e está invalidado como Messias.
 
