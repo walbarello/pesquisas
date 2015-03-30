@@ -1,3 +1,5 @@
+###Design e arquitetura do Ext4 File System
+
 Este artigo apresenta a concepção de implementação de um sistema de arquivos compatível com Unix, o ext4, que usa duas partições de disco para armazenar seus dados. Uma partição é usada exclusivamente para informações relacionadas ao diretório, e a outra para os arquivos ordinários. O sistema de arquivos é desenvolvido como uma modificação do sistema de arquivos ext2 onipresente. O objetivo é beneficiar o:
 
 * Paralelismo no acesso às duas partições, se forem armazenados em discos com controladores separados.
