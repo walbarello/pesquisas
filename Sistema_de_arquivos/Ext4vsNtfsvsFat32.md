@@ -11,7 +11,7 @@ O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquiv
 O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix original, projetado por Ken Thomson. A sua modularidade, limpeza e simplicidade são compensadosapenas pelo levesa, baixa eficiência. De uma forma ou de outra, os sistemas são todos "patches" para o projeto original, e eles tentam compactar algumas linhas de desempenho, sacrificando a elegância do design. Basicamente funciona da seguinte forma: "se ele funciona rápido, não importa se é feio." O modelo de sistema de arquivo no Unix é muito simples: um array de bytes simples com um tamanho muito grande máxima. A figura 1 representa a colocação dos procedimentos do sistema de arquivos do kernel entre outros serviços do kernel.
 
 ![ga1](https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png)
-File System Placement no sistema operacional
+***File System Placement no sistema operacional***
 
 O driver (e o cache) oferecem o disco visto como uma enorme variedade de blocos. O sistema de arquivos lê e escreve tais blocos em uma única operação. Cada partição de disco tem que segurar um sistema de arquivos independente. O sistema de ficheiro utiliza os blocos de partição do seguinte modo (figura 2)
 
@@ -38,6 +38,31 @@ Observemos que todas as operações realizadas em arquivos tem que trazer os dad
 
 ### O sistema de arquivos Linux Ext2
 
+ sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS e VFS. Ele tem suas próprias características, no entanto:
+
+Dá-se fragmentos de blocos; espaço é menos um problema com tamanhos de discos atuais; por outro deslocalização fragmento mão no crescimento do arquivo não é mais uma fonte de sobrecarga.
+
+Usa grupos (cilindro), com bitmaps para inode livre e rastreamento bloco livre (Figura 6)
+
+O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS e VFS. Ele tem suas próprias características, no entanto:
+
+* Dá-se fragmentos de blocos; espaço é menos um problema com tamanhos de discos atuais; por outro deslocalização fragmento mão no crescimento do arquivo não é mais uma fonte de sobrecarga.
+
+* Usa grupos (cilindro), com bitmaps para inode livre e rastreamento bloco livre (Figura 6);
+
+* Utiliza técnicas de pré-alocação de alcançar contiguidade para blocos de arquivos; cada arquivo crescente tenta reservar um número de blocos consecutivos, que são liberados se o crescimento não é seqüencial;
+
+* Todos os bitmaps são reduzidos a uma quadra de tamanho, por razões de eficiência de pesquisa;
+
+* Arquivos imutável, apenas anexar-arquivos são impostas pelo kernel; ioctl() lidar com seus atributos;
+
+* As entradas do diretório tem tamanho variável; diretório manipultion só é permitida através de chamadas de sistema especiais (por exemplo, readdir (), e não ler ());
+
+* Bits de desmontar limpa no superbloco permitir ignorar as verificações de consistência caros em tempo de boot;
+
+* "Rápido" links simbólicos (informações armazenadas na parte reservada para inode ponteiros bloco se ele se encaixa, e não alocar um bloco);
+
+* Alguns recursos extras estão previstas, mas ainda não foi implementado, aparentemente; compressão transparente, File Undelete."''
 
 
 
