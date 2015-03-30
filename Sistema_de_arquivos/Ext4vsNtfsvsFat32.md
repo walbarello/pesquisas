@@ -12,7 +12,7 @@ O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquiv
 
 O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix original, projetado por Ken Thomson. A sua modularidade, limpeza e simplicidade são compensadosapenas pelo levesa, baixa eficiência. De uma forma ou de outra, os sistemas são todos "patches" para o projeto original, e eles tentam compactar algumas linhas de desempenho, sacrificando a elegância do design. Basicamente funciona da seguinte forma: "se ele funciona rápido, não importa se é feio." O modelo de sistema de arquivo no Unix é muito simples: um array de bytes simples com um tamanho muito grande máxima. A figura 1 representa a colocação dos procedimentos do sistema de arquivos do kernel entre outros serviços do kernel.
 
-![ga1](https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png)
+<div style="text-align:center"><img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png)" /></div>
 
 ***File System Placement no sistema operacional***
 
