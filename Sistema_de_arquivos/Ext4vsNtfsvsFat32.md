@@ -6,6 +6,8 @@ Este artigo apresenta a concepção de implementação de um sistema de arquivos
 
 O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, além do interesse em si mesmo, vai lançar alguma luz sobre as escolhas que deram origem ao projeto do ext4.
 
+---
+
 ### O classico sistema de arquivos Unix (UFS - Unix File System)
 
 O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix original, projetado por Ken Thomson. A sua modularidade, limpeza e simplicidade são compensadosapenas pelo levesa, baixa eficiência. De uma forma ou de outra, os sistemas são todos "patches" para o projeto original, e eles tentam compactar algumas linhas de desempenho, sacrificando a elegância do design. Basicamente funciona da seguinte forma: "se ele funciona rápido, não importa se é feio." O modelo de sistema de arquivo no Unix é muito simples: um array de bytes simples com um tamanho muito grande máxima. A figura 1 representa a colocação dos procedimentos do sistema de arquivos do kernel entre outros serviços do kernel.
@@ -39,6 +41,8 @@ Todos os arquivos podem ser identificados pelo seu caminho, que é lista de link
 O programa mkfs transforma uma partição "raw" em um sistema de arquivos com a criação do superbloco, inicializando inodes e acorrentar todos os blocos de dados em uma lista enorme de blocos disponíveis para um crescimento futuro. Os blocos livres são praticamente agrupados em um grande arquivo fictício, a partir do qual eles são recuperados sob demanda (quando outros arquivos ou diretórios crescem), e ao qual regressam na remoção de arquivos ou truncamento.
 
 Observemos que todas as operações realizadas em arquivos tem que trazer os dados relevantes (por exemplo, inodes) INCORE (na RAM). A representação no interior do núcleo das estruturas de dados é mais complexa do que a estrutura no disco, porque muita informação é implícita sobre o disco em falta no interior do núcleo (por exemplo, o número de inode, o dispositivo, o tipo de sistema de arquivos).
+
+---
 
 ### O sistema de arquivos Linux Ext2
 
