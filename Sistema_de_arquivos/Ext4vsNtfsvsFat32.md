@@ -12,13 +12,17 @@ O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquiv
 
 O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix original, projetado por Ken Thomson. A sua modularidade, limpeza e simplicidade são compensadosapenas pelo levesa, baixa eficiência. De uma forma ou de outra, os sistemas são todos "patches" para o projeto original, e eles tentam compactar algumas linhas de desempenho, sacrificando a elegância do design. Basicamente funciona da seguinte forma: "se ele funciona rápido, não importa se é feio." O modelo de sistema de arquivo no Unix é muito simples: um array de bytes simples com um tamanho muito grande máxima. A figura 1 representa a colocação dos procedimentos do sistema de arquivos do kernel entre outros serviços do kernel.
 
-<div style="text-align:center"><img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png" /></div>
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png" />
+</p>
 
 ***File System Placement no sistema operacional***
 
 O driver (e o cache) oferecem o disco visto como uma enorme variedade de blocos. O sistema de arquivos lê e escreve tais blocos em uma única operação. Cada partição de disco tem que segurar um sistema de arquivos independente. O sistema de ficheiro utiliza os blocos de partição do seguinte modo (figura 2)
 
-![ga2](https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga2.png)
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga2.png" />
+</p>
 
 ***Utilizando a partição pelo sistema de arquivos***
 
@@ -26,7 +30,9 @@ O superbloco contém uma descrição dos parâmetros globais do sistema de arqui
 
 Todos os atributos relevantes são mantidos nos inodes, incluindo uma representação de uma lista de blocos usados pelo arquivo, (figura 3). Os blocos indiretos precisam estar presente apenas se o tamanho do arquivo for grande o suficiente (ou seja, o ponteiro pode ser NULL). Este esquema tem muitos méritos; vamos apenas observar que arquivos com "buracos" no interior que podem existir.
 
-![gal3](https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga3.png)
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga3.png" />
+</p>
 
 ***Representação de lista de bloqueio em Inodes***
 
@@ -34,7 +40,9 @@ Os diretórios são, na verdade, em todos os aspectos, arquivos comuns (ou seja,
 
 Todos os arquivos podem ser identificados pelo seu caminho, que é lista de links que devem ser percorridos para alcançar o arquivo (ou começando no diretório raiz, ou no diretório atual). Um arquivo pode ter links em muitos diretórios; um diretório tem que ter um único link para si mesmo (exceto "." e ".."), a partir de seu diretório pai.
 
-![ga4](https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga4.png)
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga4.png" />
+</p>
 
 ***Diretório e estrutura do link***
 
@@ -58,7 +66,9 @@ O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS
 
 * Usa grupos (cilindro), com bitmaps para inode livre e rastreamento bloco livre (Figura 6);
 
-![ga5](https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga5.png)
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga5.png" />
+</p>
 
 * Utiliza técnicas de pré-alocação de alcançar contiguidade para blocos de arquivos; cada arquivo crescente tenta reservar um número de blocos consecutivos, que são liberados se o crescimento não é seqüencial;
 
