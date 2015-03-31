@@ -84,7 +84,40 @@ O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS
 
 * "Rápido" links simbólicos (informações armazenadas na parte reservada para inode ponteiros bloco se ele se encaixa, e não alocar um bloco);
 
-* Alguns recursos extras estão previstas, mas ainda não foi implementado, aparentemente; compressão transparente, File Undelete."''
+* Alguns recursos extras estão previstas, mas ainda não foi implementado, aparentemente; compressão transparente, File Undelete.
+
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga6.png" />
+</p>
+
+***Estrutura do Grupo em ext2***
+
+O poder da VFS é aparente em Linux em sua totalidade, como Linux suporta com a mesma facilidade até 10 diferentes sistemas, que vão desde a NFS DOS e FAT. Existem três principais estruturas de dados na camada de Linux VFS, que apontam para o arquivo de sistema em partes dependentes e independentes. Estes são:
+
+* O superbloco de cada sistema montado;
+* cada inodes \carregado "objeto (arquivos, diretório, tubulação, etc.)";
+* as estruturas de arquivos, que descrevem arquivos abertos.
+
+Cada versão no interior do núcleo de tal jeto ob tem uma estrutura com ponteiros para os manipuladores de manipulação que espe c ob jeto. A Figuraa seguir ilustra este fato para os inodes. (No oficial SunOS a Terminologia da estrutura é um vnode, e a parte do arquivo é dependente do sistema de inodo, mas ambos nomes Linux
+inodes.)
+
+<p align="center">
+<img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga7.png" />
+</p>
+
+Aqui é uma peça típica do código do kernel, na rotina dependente do sistema de arquivo de ext2 que carrega um inode:
+
+```if (REGULAR(inode->mode))
+inode->operations = &ext2_file_inode_operations;
+else if (DIRECTORY(inode->mode))
+inode->operations = &ext2_dir_inode_operations;
+else if (SYMLINK(inode->mode))
+inode->operations = &ext2_symlink_inode_operations;
+else ... ```
+
+ VFS vai chamar as operações de inode indiretamente (por exemplo inode-> Operações-> link()), sem ter que saber alguma coisa sobre a implementação.
+
+### O sistema de arquivos Ext4
 
 
 
