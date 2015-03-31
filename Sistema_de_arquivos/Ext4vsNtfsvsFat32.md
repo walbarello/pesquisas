@@ -119,5 +119,18 @@ else ... ```
 
 ### O sistema de arquivos Ext4
 
+O sistema de arquivos ext4 é, basicamente, um refinamento do ext2, que usa duas partições simultaneamente, idealmente localizado em discos separados. Ambas as partições contém informações como: inodes, blocos diretos e indiretos, superblocks e informações de bitmap. A única diferença entre as duas partições é que todos os diretórios irá sentar-se em um deles (ambos os blocos e inodes) e arquivos comuns no outro.
+
+Agora todos os outros tipos de arquivos (links simbólicos, pipes nomeados, arquivos especiais) são mantidos na mesma partição dos arquivos regulares, embora o seu lugar certo, obviamente, é partição dos diretórios, porque o seu padrão de uso é supostamente semelhante aos próprios diretórios . Essa alteração não deve provar dificil. Este layout permite que as operações em arquivos e diretórios a decorrer em paralelo. Os pedidos de leitura / gravação de um bloco de diretório e um bloqueio de arquivo podem ser processados simultaneamente, reduzindo a latência percebida pelo usuário.
+
+Observemos que os pedidos pendentes simultâneos de diretório e manipulação de arquivos surgir mesmo no contexto de I / O de um único processo de usuário, por causa do write-behind e read-ahead ações do cache; isso significa que eles não são uma circunstância exótico, e estamos realmente tentando resolver um problema real.
+
+***Basicamente duas coisas têm que ser mudados em ext2 para obter ext4:***
+
+* Montagem e desmontagem de operações tem de operar em duas partições de uma só vez, e cruzar a validade das estruturas de dados;
+
+* Todas as operações que lidam com carga / poupança de blocos tem que ser personalizado, para escolher uma ou outra partição, de acordo com o destino final do bloco manipulado.
+
+
 
 
