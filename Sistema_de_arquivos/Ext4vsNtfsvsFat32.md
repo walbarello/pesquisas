@@ -107,13 +107,13 @@ inodes.)
 
 Aqui é uma peça típica do código do kernel, na rotina dependente do sistema de arquivo de ext2 que carrega um inode:
 
-<code>if (REGULAR(inode->mode))
+<p>if (REGULAR(inode->mode))
 inode->operations = &ext2_file_inode_operations;
-else if (DIRECTORY(inode->mode))
+	else if (DIRECTORY(inode->mode))
 inode->operations = &ext2_dir_inode_operations;
-else if (SYMLINK(inode->mode))
+	else if (SYMLINK(inode->mode))
 inode->operations = &ext2_symlink_inode_operations;
-else ... </code>
+else ... </p>
 
  VFS vai chamar as operações de inode indiretamente (por exemplo inode-> Operações-> link()), sem ter que saber alguma coisa sobre a implementação.
 
