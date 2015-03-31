@@ -82,7 +82,7 @@ O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS
 
 * Bits de desmontar limpa no superbloco permitir ignorar as verificações de consistência caros em tempo de boot;
 
-* "Rápido" links simbólicos (informações armazenadas na parte reservada para inode ponteiros bloco se ele se encaixa, e não alocar um bloco);
+* Rápidos links simbólicos (informações armazenadas na parte reservada para inode ponteiros bloco se ele se encaixa, e não alocar um bloco);
 
 * Alguns recursos extras estão previstas, mas ainda não foi implementado, aparentemente; compressão transparente, File Undelete.
 
@@ -117,6 +117,8 @@ else ... </code></pre>
 
  VFS vai chamar as operações de inode indiretamente (por exemplo inode-> Operações-> link()), sem ter que saber alguma coisa sobre a implementação.
 
+---
+
 ### O sistema de arquivos Ext4
 
 O sistema de arquivos ext4 é, basicamente, um refinamento do ext2, que usa duas partições simultaneamente, idealmente localizado em discos separados. Ambas as partições contém informações como: inodes, blocos diretos e indiretos, superblocks e informações de bitmap. A única diferença entre as duas partições é que todos os diretórios irá sentar-se em um deles (ambos os blocos e inodes) e arquivos comuns no outro.
@@ -131,6 +133,11 @@ Observemos que os pedidos pendentes simultâneos de diretório e manipulação d
 
 * Todas as operações que lidam com carga / poupança de blocos tem que ser personalizado, para escolher uma ou outra partição, de acordo com o destino final do bloco manipulado.
 
+Basicamente ext4 tenta fazer uso de um tipo modificado de RAID-0 técnica. RAID-0 técnicas de transformar duas partições (discos) em uma única partição \ virtual, quer pela concatenação de seus blocos, ou pelo entrelaçamento eles (blocos ou seja pares tomado de uma partição física e ímpar do outro). O RAID -0 não tem conhecimento sobre a estrutura do sistema de arquivos, e atinge \ striping "no nível do driver de dispositivo (note-se, de passagem, que o Linux possui uma academia de RAID-0, o motorista md, que no entanto não tem conexão com o nosso pro jeto)".
+
+Nosso sistema de arquivos tenta tirar vantagem do conhecimento do conteúdo do bloco, e divide os dados em dois discos em um "nível\superior."
+
+O sistema de arquivos ext4 é o resultado de uma longa evolução da tecnologia de sistema de arquivos, que se inicia com o sistema de arquivos Unix inicial, concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicos (como inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, além do interesse em si mesmo, vai lançar alguma luz sobre as escolhas que deram origem ao projeto de ext4.
 
 
 
