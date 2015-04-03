@@ -99,7 +99,9 @@ E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 <p align="center">
 <b>Genealogia descrita em ambos até Davi</b>
 <img src="https://github.com/lobocode/pesquisas/blob/master/Juda%C3%ADsmo/1.png">
+</p>
 </br>
+<p align="center">
 <b>Genealogia descrita em ambos de Davi em diante</b>
 <img src="https://github.com/lobocode/pesquisas/blob/master/Juda%C3%ADsmo/2.png">
 </p>
