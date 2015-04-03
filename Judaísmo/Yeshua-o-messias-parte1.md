@@ -97,8 +97,8 @@ E Lameque de Matusalém, e Matusalém de Enoque, e Enoque de Jarete, e Jarete de
 E Cainã de Enos, e Enos de Sete, e Sete de Adão, e Adão de Deus.
 
 <p align="center">
-<img src="">
-<img src="">
+<img src="https://github.com/lobocode/pesquisas/blob/master/Juda%C3%ADsmo/1.png">
+<img src="https://github.com/lobocode/pesquisas/blob/master/Juda%C3%ADsmo/2.png">
 </p>
 
 #### Problema 1 - Muitos erros na contagem da descendência entre Lucas e Mateus em número e nomes. Se deseja ver a genealogia correta dos descendentes da tribo de Judá, Levi e todos os outros, consulte 1 Crônicas 1 em diante. Há muita especulações para tentar explicar a genealogia descrita em Lucas e a descrita em Mateus. No entanto, nenhuma especulação entra em harmonia com o Tanach em 1 Crônicas. Além do que, há muitas tentativas de traduções de nome que acaba confundindo o leitor, estudante, pesquisador das escrituras. Sem falar de nomes que estão em contextos completamente errados como é o caso de Arão irmão mais velho de Moisés. O filho de de Hezrom "Esrom" não foi Arão e sim RÃO que não tem absolutamente nada a ver Arão da tribo de Levi.
