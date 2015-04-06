@@ -6,13 +6,13 @@ Este artigo apresenta a concepção de implementação de um sistema de arquivos
 
 * Layout simplificado e melhorado que favorece padrões de acesso específicos para cada tipo de arquivo.
 
-O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, além do interesse em si mesmo, vai lançar alguma luz sobre as escolhas que deram origem ao projeto do ext4.
+O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, lança alguma luz sobre as escolhas que deram origem ao projeto do ext4.
 
 ---
 
 ### O classico sistema de arquivos Unix (UFS - Unix File System)
 
-O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix original, projetado por Ken Thomson. A sua modularidade, limpeza e simplicidade são compensadosapenas pelo levesa, baixa eficiência. De uma forma ou de outra, os sistemas são todos "patches" para o projeto original, e eles tentam compactar algumas linhas de desempenho, sacrificando a elegância do design. Basicamente funciona da seguinte forma: "se ele funciona rápido, não importa se é feio." O modelo de sistema de arquivo no Unix é muito simples: um array de bytes simples com um tamanho muito grande máxima. A figura 1 representa a colocação dos procedimentos do sistema de arquivos do kernel entre outros serviços do kernel.
+O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix original, projetado por Ken Thomson. A sua modularidade, limpeza e simplicidade são compensados apenas pela leveza e baixa eficiência. De uma forma ou de outra, os novos sistemas são apenas "patches" do projeto original, e eles tentam compactar algumas linhas de desempenho, sacrificando a elegância do design. Basicamente funciona da seguinte forma: "se ele funciona rápido, não importa se é feio." O modelo de sistema de arquivo do Unix é muito simples: um array de bytes simples com um tamanho muito grande. A figura a baixo representa a colocação dos procedimentos do sistema de arquivos do kernel entre outros serviços do kernel.
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png" />
