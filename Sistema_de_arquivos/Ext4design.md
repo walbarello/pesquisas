@@ -80,7 +80,7 @@ Tem fragmentos de blocos, o espaço é menos problemático com tamanhos de disco
 
 * Os arquivos são imutáveis, apenas anexa arquivos impostos pelo kernel; o ioctl() lida com seus atributos;
 
-* As entradas do diretório tem tamanho variável; o diretório manipultion só é permitido através de chamadas de sistema especiais (por exemplo, readdir(), e não read());
+* As entradas do diretório tem tamanho variável; o diretório manipulation só é permitido através de chamadas de sistema especiais (por exemplo, readdir(), e não o read());
 
 * Bits de desmontar limpa no superbloco permitir ignorar as verificações de consistência caros em tempo de boot;
 
