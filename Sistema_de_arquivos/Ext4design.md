@@ -64,35 +64,29 @@ Observemos que todas as operações realizadas em arquivos tem que trazer os dad
 
 ### O sistema de arquivos Linux Ext2
 
- sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS e VFS. Ele tem suas próprias características, no entanto:
-
-Dá-se fragmentos de blocos; espaço é menos um problema com tamanhos de discos atuais; por outro deslocalização fragmento mão no crescimento do arquivo não é mais uma fonte de sobrecarga.
-
-Usa grupos (cilindro), com bitmaps para inode livre e rastreamento bloco livre (Figura 6)
-
 O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS e VFS. Ele tem suas próprias características, no entanto:
 
-* Dá-se fragmentos de blocos; espaço é menos um problema com tamanhos de discos atuais; por outro deslocalização fragmento mão no crescimento do arquivo não é mais uma fonte de sobrecarga.
+Tem fragmentos de blocos, o espaço é menos problemático com tamanhos de discos atuais; e tente a não sofrer sobrecarga. Além disto, contém outros fatores importantes como:
 
-* Usa grupos (cilindro), com bitmaps para inode livre e rastreamento bloco livre (Figura 6);
+* Usa grupos (cilindro), com bitmaps para inode livre e rastreamento bloco livre;
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga5.png" />
 </p>
 
-* Utiliza técnicas de pré-alocação de alcançar contiguidade para blocos de arquivos; cada arquivo crescente tenta reservar um número de blocos consecutivos, que são liberados se o crescimento não é seqüencial;
+* Utiliza técnicas de pré-alocação para alcançar blocos de arquivos; cada arquivo crescente tenta reservar um número de blocos consecutivos, que são liberados se o crescimento não é seqüencial;
 
 * Todos os bitmaps são reduzidos a uma quadra de tamanho, por razões de eficiência de pesquisa;
 
-* Arquivos imutável, apenas anexar-arquivos são impostas pelo kernel; ioctl() lidar com seus atributos;
+* Os arquivos são imutáveis, apenas anexa arquivos impostos pelo kernel; o ioctl() lida com seus atributos;
 
-* As entradas do diretório tem tamanho variável; diretório manipultion só é permitida através de chamadas de sistema especiais (por exemplo, readdir (), e não ler ());
+* As entradas do diretório tem tamanho variável; o diretório manipultion só é permitido através de chamadas de sistema especiais (por exemplo, readdir(), e não read());
 
 * Bits de desmontar limpa no superbloco permitir ignorar as verificações de consistência caros em tempo de boot;
 
 * Rápidos links simbólicos (informações armazenadas na parte reservada para inode ponteiros bloco se ele se encaixa, e não alocar um bloco);
 
-* Alguns recursos extras estão previstas, mas ainda não foi implementado, aparentemente; compressão transparente, File Undelete.
+* Alguns recursos extras estão previstos, mas ainda não fora implementados, como a compressão transparente, File Undelete.
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga6.png" />
