@@ -2,11 +2,11 @@
 
 Este artigo apresenta a concepção de implementação de um sistema de arquivos compatível com Unix, o ext4, que usa duas partições de disco para armazenar seus dados. Uma partição é usada exclusivamente para informações relacionadas ao diretório, e a outra para os arquivos ordinários. O sistema de arquivos é desenvolvido como uma modificação do sistema de arquivos ext2 onipresente. O objetivo é beneficiar o:
 
-* Paralelismo no acesso às duas partições, se forem armazenados em discos com controladores separados.
+* O paralelismo no acesso às duas partições se forem armazenados em discos com controladores separados.
 
-* Layout simplificado e melhorado que favorece padrões de acesso específicos para cada tipo de arquivo.
+* O layout simplificado e melhorado que favorece padrões de acesso específicos para cada tipo de arquivo.
 
-O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como o inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, lança alguma luz sobre as escolhas que deram origem ao projeto do ext4.
+O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como o inodes); é interessante fazer uma analogia cronológica da evolução dos sistemas de arquivos Unix, que lança alguma luz sobre as escolhas que deram origem ao projeto do ext4.
 
 ---
 
