@@ -30,7 +30,7 @@ O driver (e o cache) oferecem ao disco uma enorme variedade de blocos. O sistema
 
 Um superbloco contém uma descrição dos parâmetros globais do sistema de arquivos. Como por exemplo: tamanho da partição, montar a partição no tempo, número de inodes, blocos livres; inodes livres, tipo de sistema de arquivos. A seguir, um número de blocos é atribuída para armazenar descrições de arquivo individuais. Cada arquivo é descrito por um inode ou informação. O número de inodes é alocado estaticamente, no momento da criação do sistema de arquivos.
 
-Todos os atributos relevantes são mantidos nos inodes, incluindo uma representação de uma lista de blocos usados pelo arquivo, (veja a imagem a seguir). Os blocos indiretos precisam estar presentes apenas se o tamanho do arquivo for grande o suficiente (ou seja, o ponteiro pode ser NULL "nulo"). Este esquema tem muitos méritos; vamos apenas observar os arquivos com furos no interior que podem existir.
+Todos os atributos relevantes são mantidos nos inodes, incluindo uma representação de uma lista de blocos usados pelo arquivo, (veja a imagem a seguir). Os blocos indiretos precisam estar presentes apenas se o tamanho do arquivo for grande o suficiente (ou seja, o ponteiro pode ser NULL "nulo"). 
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga3.png" />
@@ -38,9 +38,9 @@ Todos os atributos relevantes são mantidos nos inodes, incluindo uma representa
 
 ***Representação de lista de bloqueio em Inodes***
 
-Os diretórios são, na verdade, em todos os aspectos, arquivos comuns (ou seja, blocos de inodes, e de dados que crescem da mesma forma), mas o sistema operacional se preocupa com o conteúdo do diretório. A estrutura de diretórios costuma ser bastante simples com um conjunto de links. Basicamente, um link é uma estrutura que associa um nome (string) com um número de inode. A Figura a seguir mostra a estrutura de diretórios. Cada arquivo tem que ter pelo menos um link em um diretório. O mesmo para diretórios também, exceto para o diretório root.
+Os diretórios são, na verdade, em todos os aspectos, arquivos comuns (ou seja, blocos de inodes, e de dados que crescem da mesma forma), o sistema operacional se preocupa com o conteúdo do diretório. A estrutura de diretórios costuma ser bastante simples com um conjunto de links. Basicamente, um link é uma estrutura que associa um nome (string) com um número de inode. A Figura a seguir mostra a estrutura de diretórios. Cada arquivo tem que ter pelo menos um link em um diretório. O mesmo para diretórios também, exceto para o diretório root.
 
-Todos os arquivos podem ser identificados pelo seu caminho, que é lista de links que devem ser percorridos para alcançar o arquivo (ou começando no diretório raiz, ou no diretório atual). Um arquivo pode ter links em muitos diretórios; um diretório tem que ter um único link para si mesmo (exceto "." e ".."), a partir de seu diretório pai.
+Todos os arquivos podem ser identificados pelo seu caminho, que é lista de links que devem ser percorridos para alcançar o arquivo (ou começando no diretório root, ou no diretório corrente). Um arquivo pode ter links em muitos diretórios; um diretório tem que ter um único link para si mesmo (exceto "." e ".."), a partir de seu diretório pai.
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga4.png" />
@@ -48,7 +48,7 @@ Todos os arquivos podem ser identificados pelo seu caminho, que é lista de link
 
 ***Diretório e estrutura do link***
 
-O programa mkfs transforma uma partição "raw" em um sistema de arquivos com a criação do superbloco, inicializando inodes e acorrentar todos os blocos de dados em uma lista enorme de blocos disponíveis para um crescimento futuro. Os blocos livres são praticamente agrupados em um grande arquivo fictício, a partir do qual eles são recuperados sob demanda (quando outros arquivos ou diretórios crescem), e ao qual regressam na remoção de arquivos ou truncamento.
+O programa ```mkfs``` transforma uma partição "raw" em um sistema de arquivos com a criação do superbloco, inicializando inodes e prendendo todos os blocos de dados em uma lista enorme de blocos disponíveis para um crescimento futuro. Os blocos livres são praticamente agrupados em um grande arquivo fictício, a partir do qual eles são recuperados sob demanda (quando outros arquivos ou diretórios crescem), e ao qual regressam na remoção de arquivos ou truncamento.
 
 Observemos que todas as operações realizadas em arquivos tem que trazer os dados relevantes (por exemplo, inodes) INCORE (na RAM). A representação no interior do núcleo das estruturas de dados é mais complexa do que a estrutura no disco, porque muita informação é implícita sobre o disco em falta no interior do núcleo (por exemplo, o número de inode, o dispositivo, o tipo de sistema de arquivos).
 
