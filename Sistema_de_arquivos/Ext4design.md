@@ -132,21 +132,20 @@ O VFS vai chamar as operações do inode indiretamente (por exemplo inode-> Oper
 
 O sistema de arquivos ext4 é, basicamente, um refinamento do ext2, que usa duas partições simultaneamente, idealmente localizado em discos separados. Ambas as partições contém informações como: inodes, blocos diretos e indiretos, superblocks e informações de bitmap. A única diferença entre as duas partições é que todos os diretórios irá se acomodar em um deles (ambos os blocos e inodes) e arquivos comuns no outro.
 
-Agora todos os outros tipos de arquivos (links simbólicos, pipes nomeados, arquivos especiais) são mantidos na mesma partição dos arquivos regulares, embora o seu lugar certo, obviamente, é partição dos diretórios, porque o seu padrão de uso é supostamente semelhante aos próprios diretórios . Essa alteração não deve provar dificil. Este layout permite que as operações em arquivos e diretórios a decorrer em paralelo. Os pedidos de leitura / gravação de um bloco de diretório e um bloqueio de arquivo podem ser processados simultaneamente, reduzindo a latência percebida pelo usuário.
+Agora todos os outros tipos de arquivos (links simbólicos, pipes nomeados, arquivos especiais) são mantidos na mesma partição dos arquivos regulares, embora o seu lugar certo, obviamente, é partição dos diretórios, porque o seu padrão de uso é supostamente semelhante aos próprios diretórios. Essa alteração não deve ser dificil. Este layout permite que as operações em arquivos e diretórios decorrerem em paralelo. Os pedidos de leitura/gravação de um bloco de diretório e um bloqueio de arquivo podem ser processados simultaneamente, reduzindo a latência percebida pelo usuário.
 
-Observemos que os pedidos pendentes simultâneos de diretório e manipulação de arquivos surgir mesmo no contexto de I / O de um único processo de usuário, por causa do write-behind e read-ahead ações do cache; isso significa que eles não são uma circunstância exótico, e estamos realmente tentando resolver um problema real.
+Observemos que os pedidos pendentes simultâneos de diretório e manipulação de arquivos surgem mesmo no contexto de entrada e saída I/O de um único processo de usuário, por causa do write-behind e read-ahead que são ações do cache; isso significa que eles não são uma circunstância exótica, e estamos realmente tentando resolver um problema real.
 
-***Basicamente duas coisas têm que ser mudados em ext2 para obter ext4:***
+***Basicamente duas coisas têm que ser mudadas no ext2 para obter ext4:***
 
-* Montagem e desmontagem de operações tem de operar em duas partições de uma só vez, e cruzar a validade das estruturas de dados;
+* A montagem e desmontagem de operações tem de operar em duas partições de uma só vez, e cruzar a validade das estruturas de dados;
 
-* Todas as operações que lidam com carga / poupança de blocos tem que ser personalizado, para escolher uma ou outra partição, de acordo com o destino final do bloco manipulado.
+* Todas as operações que lidam com carga/poupança de blocos tem que ser personalizado, para escolher uma ou outra partição, de acordo com o destino final do bloco manipulado.
 
-Basicamente ext4 tenta fazer uso de um tipo modificado de RAID-0 técnica. RAID-0 técnicas de transformar duas partições (discos) em uma única partição \ virtual, quer pela concatenação de seus blocos, ou pelo entrelaçamento eles (blocos ou seja pares tomado de uma partição física e ímpar do outro). O RAID -0 não tem conhecimento sobre a estrutura do sistema de arquivos, e atinge \ striping "no nível do driver de dispositivo (note-se, de passagem, que o Linux possui uma academia de RAID-0, o motorista md, que no entanto não tem conexão com o nosso pro jeto)".
+Basicamente o ext4 tenta fazer uso de um tipo modificado da técnica RAID-0. A técnica RAID-0 transforma duas partições (discos) em uma única partição\virtual, quer pela concatenação de seus blocos, ou pelo entrelaçamento deles (de blocos ou seja, pares tomados de uma partição física e ímpar do outro). O RAID-0 não tem conhecimento sobre a estrutura do sistema de arquivos, e atinge o striping, isto é, "o nível do driver de dispositivo (note-se, de passagem, que o GNU/Linux possui um sistema de RAID-0, o driver md, que no entanto não tem conexão com o nosso projeto)".
 
 Nosso sistema de arquivos tenta tirar vantagem do conhecimento do conteúdo do bloco, e divide os dados em dois discos em um "nível\superior."
 
-O sistema de arquivos ext4 é o resultado de uma longa evolução da tecnologia de sistema de arquivos, que se inicia com o sistema de arquivos Unix inicial, concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicos (como inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, além do interesse em si mesmo, vai lançar alguma luz sobre as escolhas que deram origem ao projeto de ext4.
 
 
 
