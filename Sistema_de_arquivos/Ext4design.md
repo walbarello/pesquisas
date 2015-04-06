@@ -18,6 +18,8 @@ O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix or
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga1.png" />
 </p>
 
+---
+
 ***File System Placement no sistema operacional***
 
 O driver (e o cache) oferecem ao disco uma enorme variedade de blocos. O sistema de arquivos lê e escreve em tais blocos em uma única operação. Cada partição de disco tem que conter um sistema de arquivos independente. O sistema de ficheiro utiliza os blocos de partição do seguinte modo:
@@ -25,6 +27,8 @@ O driver (e o cache) oferecem ao disco uma enorme variedade de blocos. O sistema
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga2.png" />
 </p>
+
+---
 
 ***Utilizando a partição pelo sistema de arquivos***
 
@@ -36,6 +40,8 @@ Todos os atributos relevantes são mantidos nos inodes, incluindo uma representa
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga3.png" />
 </p>
 
+---
+
 ***Representação de lista de bloqueio em Inodes***
 
 Os diretórios são, na verdade, em todos os aspectos, arquivos comuns (ou seja, blocos de inodes, e de dados que crescem da mesma forma), o sistema operacional se preocupa com o conteúdo do diretório. A estrutura de diretórios costuma ser bastante simples com um conjunto de links. Basicamente, um link é uma estrutura que associa um nome (string) com um número de inode. A Figura a seguir mostra a estrutura de diretórios. Cada arquivo tem que ter pelo menos um link em um diretório. O mesmo para diretórios também, exceto para o diretório root.
@@ -45,6 +51,8 @@ Todos os arquivos podem ser identificados pelo seu caminho, que é lista de link
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga4.png" />
 </p>
+
+---
 
 ***Diretório e estrutura do link***
 
@@ -89,6 +97,8 @@ O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga6.png" />
 </p>
+
+---
 
 ***Estrutura do Grupo em ext2***
 
