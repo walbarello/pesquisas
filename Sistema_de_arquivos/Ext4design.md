@@ -140,6 +140,18 @@ Basicamente o ext4 tenta fazer uso de um tipo modificado da técnica RAID-0. A t
 
 Nosso sistema de arquivos tenta tirar vantagem do conhecimento do conteúdo do bloco, e divide os dados em dois discos em um "nível\superior."
 
+###Referências:
 
+* A Dual-Disk File System: ext4 - Mihai Budiu
+
+* A High Performance Multi-Structured FIle System Design; Keith Muller and Joseph Pasquale -- Procedings of the Thirteen ACM Symposium on Operating System Principles
+
+* Linux File System; Rémy Card, "Theodore Ts'o", Stephen Tweedie -- Slides
+
+* File Management in the Linux Kernel; Rémy Card -- Slides
+
+* Optimizations in File Systems; Stephen Tweedie -- Slides
+
+* Linux Kernel Source Code and Linux Disk Utilities; Rémi Card, "Theodore Ts'o", Linus Torvalds -- Linux kernel 2.0.18
 
 
