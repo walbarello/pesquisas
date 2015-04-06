@@ -102,20 +102,19 @@ O sistema de arquivos ext2 inspira-se fortemente sobre o legado dos sistemas FFS
 
 ***Estrutura do Grupo em ext2***
 
-O poder da VFS é aparente em Linux em sua totalidade, como Linux suporta com a mesma facilidade até 10 diferentes sistemas, que vão desde a NFS DOS e FAT. Existem três principais estruturas de dados na camada de Linux VFS, que apontam para o arquivo de sistema em partes dependentes e independentes. Estes são:
+O poder do Virtual File System (VFS) aparente em Linux suporta até 10 diferentes sistemas, que vão desde a NFS a DOS e FAT etc... Existem três principais estruturas de dados na camada de Linux VFS, que apontam para o arquivo de sistema em partes dependentes e independentes. Estes são:
 
 * O superbloco de cada sistema montado;
-* cada inodes \carregado "objeto (arquivos, diretório, tubulação, etc.)";
-* as estruturas de arquivos, que descrevem arquivos abertos.
+* Cada inodes \carregado "objeto (arquivos, diretório, tubulação, etc.)";
+* As estruturas de arquivos, que descrevem arquivos abertos.
 
-Cada versão no interior do núcleo de tal jeto ob tem uma estrutura com ponteiros para os manipuladores de manipulação que espe c ob jeto. A Figuraa seguir ilustra este fato para os inodes. (No oficial SunOS a Terminologia da estrutura é um vnode, e a parte do arquivo é dependente do sistema de inodo, mas ambos nomes Linux
-inodes.)
+Cada versão no interior do kernel tem uma estrutura com ponteiros para os manipuladores. A Figura a seguir ilustra este fato para os inodes. 
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga7.png" />
 </p>
 
-Aqui é uma peça típica do código do kernel, na rotina dependente do sistema de arquivo de ext2 que carrega um inode:
+Aqui é uma estrutura típica do código do kernel, na rotina, uma dependencia do sistema de arquivo de ext2 que carrega um inode:
 
 <pre lang="c"><code>if (REGULAR(inode->mode))
 inode->operations = &ext2_file_inode_operations;
@@ -125,13 +124,13 @@ inode->operations = &ext2_dir_inode_operations;
 inode->operations = &ext2_symlink_inode_operations;
 else ... </code></pre>
 
- VFS vai chamar as operações de inode indiretamente (por exemplo inode-> Operações-> link()), sem ter que saber alguma coisa sobre a implementação.
+O VFS vai chamar as operações do inode indiretamente (por exemplo inode-> Operações-> link()), sem ter que saber alguma coisa sobre a implementação.
 
 ---
 
 ### O sistema de arquivos Ext4
 
-O sistema de arquivos ext4 é, basicamente, um refinamento do ext2, que usa duas partições simultaneamente, idealmente localizado em discos separados. Ambas as partições contém informações como: inodes, blocos diretos e indiretos, superblocks e informações de bitmap. A única diferença entre as duas partições é que todos os diretórios irá sentar-se em um deles (ambos os blocos e inodes) e arquivos comuns no outro.
+O sistema de arquivos ext4 é, basicamente, um refinamento do ext2, que usa duas partições simultaneamente, idealmente localizado em discos separados. Ambas as partições contém informações como: inodes, blocos diretos e indiretos, superblocks e informações de bitmap. A única diferença entre as duas partições é que todos os diretórios irá se acomodar em um deles (ambos os blocos e inodes) e arquivos comuns no outro.
 
 Agora todos os outros tipos de arquivos (links simbólicos, pipes nomeados, arquivos especiais) são mantidos na mesma partição dos arquivos regulares, embora o seu lugar certo, obviamente, é partição dos diretórios, porque o seu padrão de uso é supostamente semelhante aos próprios diretórios . Essa alteração não deve provar dificil. Este layout permite que as operações em arquivos e diretórios a decorrer em paralelo. Os pedidos de leitura / gravação de um bloco de diretório e um bloqueio de arquivo podem ser processados simultaneamente, reduzindo a latência percebida pelo usuário.
 
