@@ -6,7 +6,7 @@ Este artigo apresenta a concepção de implementação de um sistema de arquivos
 
 * Layout simplificado e melhorado que favorece padrões de acesso específicos para cada tipo de arquivo.
 
-O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, lança alguma luz sobre as escolhas que deram origem ao projeto do ext4.
+O sistema de arquivos ext4 é o resultado de uma tecnologia de sistema de arquivos de longa evolução que começa com o sistema de arquivos Unix concebido na década de setenta por Ken Thomson. Muitas idéias ainda são básicas (como o inodes); uma descrição cronológica da evolução dos sistemas de arquivos Unix, lança alguma luz sobre as escolhas que deram origem ao projeto do ext4.
 
 ---
 
@@ -20,7 +20,7 @@ O protótipo do sistema de arquivos continua a ser o sistema de arquivos Unix or
 
 ***File System Placement no sistema operacional***
 
-O driver (e o cache) oferecem o disco visto como uma enorme variedade de blocos. O sistema de arquivos lê e escreve tais blocos em uma única operação. Cada partição de disco tem que segurar um sistema de arquivos independente. O sistema de ficheiro utiliza os blocos de partição do seguinte modo (figura 2)
+O driver (e o cache) oferecem ao disco uma enorme variedade de blocos. O sistema de arquivos lê e escreve em tais blocos em uma única operação. Cada partição de disco tem que conter um sistema de arquivos independente. O sistema de ficheiro utiliza os blocos de partição do seguinte modo:
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga2.png" />
@@ -28,9 +28,9 @@ O driver (e o cache) oferecem o disco visto como uma enorme variedade de blocos.
 
 ***Utilizando a partição pelo sistema de arquivos***
 
-O superbloco contém uma descrição dos parâmetros globais do sistema de arquivos. Alguns exemplos são: tamanho da partição, montar a partição no tempo, número de inodes, blocos livres; inodes livres, tipo de sistema de arquivos. A seguir, um número de blocos é atribuída para armazenar descrições de arquivo individuais. Cada arquivo é descrito por um inode ou informação. O número de inodes é alocado estaticamente, no momento da criação do sistema de arquivos.
+Um superbloco contém uma descrição dos parâmetros globais do sistema de arquivos. Como por exemplo: tamanho da partição, montar a partição no tempo, número de inodes, blocos livres; inodes livres, tipo de sistema de arquivos. A seguir, um número de blocos é atribuída para armazenar descrições de arquivo individuais. Cada arquivo é descrito por um inode ou informação. O número de inodes é alocado estaticamente, no momento da criação do sistema de arquivos.
 
-Todos os atributos relevantes são mantidos nos inodes, incluindo uma representação de uma lista de blocos usados pelo arquivo, (figura 3). Os blocos indiretos precisam estar presente apenas se o tamanho do arquivo for grande o suficiente (ou seja, o ponteiro pode ser NULL). Este esquema tem muitos méritos; vamos apenas observar que arquivos com "buracos" no interior que podem existir.
+Todos os atributos relevantes são mantidos nos inodes, incluindo uma representação de uma lista de blocos usados pelo arquivo, (veja a imagem a seguir). Os blocos indiretos precisam estar presentes apenas se o tamanho do arquivo for grande o suficiente (ou seja, o ponteiro pode ser NULL "nulo"). Este esquema tem muitos méritos; vamos apenas observar os arquivos com furos no interior que podem existir.
 
 <p align="center">
 <img src ="https://github.com/lobocode/pesquisas/blob/master/Sistema_de_arquivos/ga3.png" />
@@ -38,7 +38,7 @@ Todos os atributos relevantes são mantidos nos inodes, incluindo uma representa
 
 ***Representação de lista de bloqueio em Inodes***
 
-Os diretórios são, na verdade, em todos os aspectos, arquivos comuns (ou seja, com ótimos blocos de inodes, e de dados que crescem da mesma forma), mas o sistema operacional se preocupa significamente com o conteúdo do diretório. A estrutura de diretórios é bastantesimples: cada um é um conjunto de links. Basicamente, um link é uma estrutura que associa um nome (string) para um número de inode. A Figura 4 mostra a estrutura de diretórios. Cada arquivo tem que ter pelo menos um link em um diretório. Isto é verdade para os diretórios também, exceto para o diretório raiz.
+Os diretórios são, na verdade, em todos os aspectos, arquivos comuns (ou seja, blocos de inodes, e de dados que crescem da mesma forma), mas o sistema operacional se preocupa com o conteúdo do diretório. A estrutura de diretórios costuma ser bastante simples com um conjunto de links. Basicamente, um link é uma estrutura que associa um nome (string) com um número de inode. A Figura a seguir mostra a estrutura de diretórios. Cada arquivo tem que ter pelo menos um link em um diretório. O mesmo para diretórios também, exceto para o diretório root.
 
 Todos os arquivos podem ser identificados pelo seu caminho, que é lista de links que devem ser percorridos para alcançar o arquivo (ou começando no diretório raiz, ou no diretório atual). Um arquivo pode ter links em muitos diretórios; um diretório tem que ter um único link para si mesmo (exceto "." e ".."), a partir de seu diretório pai.
 
