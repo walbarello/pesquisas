@@ -63,6 +63,7 @@ Coloque o código a cima em um arquivo chamado my_first_m4_program e execute-o c
 m4 my_first_m4_program
 
 A saída será:
+
 I say this: Hello World!
 ```
 
@@ -70,6 +71,7 @@ Podemos também redirecionar a saída para um arquivo simplesmente acrescentando
 
 ```bash
 m4 my_first_m4_program > test_file
+
 cat test_file
 
 I say this: Hello World!
@@ -81,7 +83,7 @@ Um macro simples substitui apenas uma parte do texto sobre a entrada. Embora est
 define(`yoo',
 `Hello World!'
 )
-I say this: yoo')
+I say this: yoo
 ```
 
 Isso resultará em algumas linhas vazias na saída do programa, no entanto. Também é possível deixar a segunda parte da declaração em várias linhas:
@@ -97,14 +99,14 @@ define(`htmlheader',
   <title>my_title</title>
   <meta http-equiv="Content-Type" content=
   "text/html; charset=utf-8" />
-</head>
+</head>)
 ```
 
 Uma definição de M4 pode ser reforçada com uma lista de parâmetros:
 
 ```bash
 define(`my_value',`$1_file')
-my_value(`test')`)
+my_value(`test')
 ```
 
 Este último comando (my_value('test') retornará o test_file como saída. Já o primeiro parâmetro é abordado como $1 e o segundo $2. Instruções condicionais aumenta a utilidade de nossos scripts. Esta é a sintaxe:
@@ -122,7 +124,7 @@ ifelse(`first_text',`second_text',`true_action',`false_action')
 Um outro exemplo de uso real:
 
 ```bash
-ifelse(my_filename,`index.html',`Home',`<a href="/index.html" title="To index page">Home</a>')'`)
+ifelse(my_filename,`index.html',`Home',`<a href="/index.html" title="To index page">Home</a>')
 ```
 Esta é uma parte de uma macro em m4 que cria um menu em um página da web. Se a página atual tiver o nome "index.html" (que é destinado para variável my_filename), em seguida, a saída é uma linha com apenas a palavra "Home", caso contrário, a saída será hiperlink para a página inicial. As macros também podem ser aninhadas. Isto significa que uma macro usa a saída de outra macro para modificar outra. Quando combinado com instruções condicionais, resulta em um mecanismo muito forte. Exemplo:
 
@@ -133,12 +135,12 @@ define(`my_menu',`<li>ifelse(filename,$1,`<span class="selected">$1_menu</span>'
 Incluindo arquivos de outros módulos em outros diretórios e subdiretórios:
 
 ```bash
-include(`pagedefinitions')
-include(`webmenudefinitions')
-include(`xhtmldefinitions')
-build_htmlheader(`current_webpage')
-insert_content(`current_webpage')
-build_htmlfooter(`current_webpage')
+include('pagedefinitions')
+include('webmenudefinitions')
+include('xhtmldefinitions')
+build_htmlheader('current_webpage')
+insert_content('current_webpage')
+build_htmlfooter('current_webpage')
 ```
 
 
@@ -160,6 +162,6 @@ Pode parecer um pouco estranho usar um pré-processador como m4 para gerar o có
 Material:
 --------
 
-** [GNU m4 documentation](http://www.gnu.org/software/m4/manual/m4.html) **
+**[GNU m4 documentation](http://www.gnu.org/software/m4/manual/m4.html)**
 
 
