@@ -23,11 +23,11 @@ por William Shakespeare
 
 Embora semelhante em princípio com o pré-processador C, é uma ferramenta muito mais poderosa de uso geral. Algumas vantagens são:
 
-* ** sendmail: arquivo de configuração bastante enigmática do sendmail (/etc/mail/sendmail.cf) é gerada usando m4 a partir de um arquivo de modelo que é muito mais fácil de ler e editar (/etc/mail/sendmail.mc).
+* sendmail: arquivo de configuração bastante enigmática do sendmail (/etc/mail/sendmail.cf) é gerada usando m4 a partir de um arquivo de modelo que é muito mais fácil de ler e editar (/etc/mail/sendmail.mc).
 
-* ** GNU Autoconf: macros em m4 são usados para produzir os scripts "Configure" que tornam o processo de instalação de pacotes de código portável entre plataformas Unix-like diferentes.
+* GNU Autoconf: macros em m4 são usados para produzir os scripts "Configure" que tornam o processo de instalação de pacotes de código portável entre plataformas Unix-like diferentes.
 
-* ** Segurança Enhanced Linux: arquivos de política do SELinux são (no momento da escrita) processados usando m4. (Na verdade, m4 é a fonte de algumas dificuldades aqui, porque a sua flexibilidade permitem certos abusos e faz análise de uma política automatizada de difícil aplicação.)
+* Segurança Enhanced Linux: arquivos de política do SELinux são (no momento da escrita) processados usando m4. (Na verdade, m4 é a fonte de algumas dificuldades aqui, porque a sua flexibilidade permitem certos abusos e faz análise de uma política automatizada de difícil aplicação.)
 
 Uma explicação melhor elaborada:
 -------------------------------
