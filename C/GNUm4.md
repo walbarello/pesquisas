@@ -10,9 +10,9 @@ Algumas pessoas acham m4 ser bastante viciante. Eles primeiro usam m4 para probl
 Em seu uso mais básico, o m4 pode ser usado para uma simples substituição de texto. Veja o exemplo a seguir:
 
 ```bash
-define (AUTOR, William Shakespeare)
+define (AUTHOR, William Shakespeare)
 Sonho de Uma Noite de Verão
-por AUTOR
+por AUTHOR
 ```
 E como saída, teremos:
 
@@ -32,10 +32,25 @@ Embora semelhante em princípio com o pré-processador C, é uma ferramenta muit
 Uma explicação melhor elaborada:
 -------------------------------
 
-Os seus argumentos usados no GNU m4, se houver, são os arquivos que ele irá ler; se nenhum for especificado, em seguida, ele lê o stdin eo texto resultante é enviado para stdout. O m4 vem com um conjunto inicial de macros embutidos, muitas vezes chamado simplesmente de " builtins ". O mais básico deles, *define* , é usado para criar novas macros:
+Os seus argumentos usados no GNU m4, são os arquivos que ele irá ler; se nenhum for especificado, em seguida, ele lê o stdin e o texto resultante é enviado para stdout. O m4 vem com um conjunto inicial de macros embutidos, muitas vezes chamado simplesmente de " builtins ". O mais básico deles, o *define* , é usado para criar novas macros:
 
 ```bash
-define (AUTOR, W. Shakespeare)
+define (AUTHOR, W. Shakespeare)
 ```
 
-Após esta definição, a palavra "autor" é reconhecido como um macro que expande a "W. Shakespeare ". A definir -se macro - incluindo seus dois argumentos - expande para uma string vazia, ou seja, ele não produz nenhuma saída. No entanto, a nova linha na extremidade da AUTOR definição acima deve ser exibida para a saída. Se uma linha em branco adicionada à saída é um problema, então você pode suprimi-lo usando o " excluir a nova linha macro ":
+Após esta definição, a palavra "AUTHOR" é reconhecida como uma macro que remete a "W. Shakespeare " incluindo seus dois argumentos de string vazia "ou espaçamentos", ou seja, ele não produz nenhuma saída para espaçamentos. No entanto, se uma linha em branco for adicionada à saída, será um problema, então você pode suprimi-lo usando o "delete to newline" do macro, isto é, o *dnl*:
+
+```bash
+define (AUTHOR, W. Shakespeare) dnl
+```
+
+Qualquer espaço em branco antes do início de um parâmetro é descartado. Assim, a definição seguinte é equivalente à anterior:
+
+```bash
+define (
+     AUTHOR, W. Shakespeare) dnl
+```
+O comportamento de M4 pode ser confuso no início. É melhor obter uma compreensão inicial de como ele funciona para evitar problemas. Isso deve poupar tempo para descobrir o que está acontecendo quando ele não faz o que você espera. Com m4, você também pode criar condicionais ifdef, else, operações matemáticas, aritméticas, octa, hexadecimal, e operações com loops for, while, foreach e muito mais.
+
+
+
