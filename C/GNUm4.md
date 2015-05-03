@@ -7,6 +7,14 @@ O GNU m4 é uma implementação do macro processador usado em todos os sistemas 
 
 Algumas pessoas acham m4 ser bastante viciante. Eles primeiro usam m4 para problemas simples, em seguida, tomam desafios cada vez maiores, e vão aprendendo a escrever conjuntos complexos com macros m4 ao longo do caminho. Portanto, cuidado! O m4 pode ser perigoso para a saúde de programadores compulsivos. 
 
+Macros M4 são semelhantes em muitos aspectos para as macros de pré-processador C-(CPP) definidos em arquivos de origem da linguagem C. O pré-processador C é também uma ferramenta de substituição de texto, o fato surpreendete aqui, é que ambos M4 e o pré-processador de C foram concebidos e escritos por Kernighan e Ritchie, ao mesmo tempo.
+
+Há vantagens em usar o pré-processador M4 ao invés do CPP macro. Por exemplo, você pode definir macros M4 para aceitar uma lista delimitada por vírgulas e argumentos entre parênteses. Em ambos os utilitários, o parêntese de abertura deve seguir imediatamente o nome da macro em sua definição, com nenhum espaço em branco intermediando. Uma diferença significativa, no entanto, é que no M4, os argumentos para macros com parâmetros são opcionais, e o chamador pode simplesmente omiti-los. Se nenhum argumento for passado, você também pode omitir os parênteses. Argumentos extras passados para macros M4 são simplesmente ignorados. Finalmente, M4 não permite espaço em branco entre um nome de macro e o parêntese de abertura em uma chamada de macro.
+
+Se você já trabalha com a programação em C por muitos anos, sem dúvidas, já trabalha com macros de pré-processador C que é uma região distante em um reino inferior da terra. Basicamente, estou falando que você faz macros ruins. Macros que se expandem em uma ou duas páginas de código C. Escrever essas macros complexos é visto por programadores M4 como uma espécie de nirvana macro — quanto mais complexos e funcionais forem, melhor. No entanto, bons macros são escritos em uma forma modular, cada macro se expande por vários outros módulos e assim por diante.
+
+Pelas mesmas razões que os programadores são ensinados a não abusar o pré-processador de C, o uso extensivo de M4 faz com que uma quantidade razoável de frustração para aqueles que tentam compreender o Autoconf. Não quer para dizer que autoconf não deveria usar M4 dessa maneira; muito pelo contrário — o melhor domínio do M4 é justamente este. Abordar o Autoconf sem o M4, não faz sentido.
+
 Em seu uso mais básico, o m4 pode ser usado para uma simples substituição de texto. Veja o exemplo a seguir:
 
 ```bash
