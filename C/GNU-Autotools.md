@@ -28,8 +28,10 @@ all clean jupiter:
 .PHONY: all clean
 ```
 > **all:** É o nome das regras a serem executadas
+
 > **clean:** Apaga os arquivos intermediários se você escrever no console ```make clean```.
-> **.PHONY:** Esta regra para evitar conflitos. 
+
+ **.PHONY:** Esta regra para evitar conflitos. 
 
 **Em src/Makefile:**
 
