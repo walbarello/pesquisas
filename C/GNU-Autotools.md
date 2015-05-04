@@ -31,7 +31,7 @@ all clean jupiter:
 
 > **clean:** Apaga os arquivos intermediários se você escrever no console ```make clean```.
 
- **.PHONY:** Esta regra para evitar conflitos. 
+> **.PHONY:** Esta regra para evitar conflitos. 
 
 **Em src/Makefile:**
 
